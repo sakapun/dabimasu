@@ -14,75 +14,75 @@
 ×¯·°Ø¯Ìß½,Ú²½Ş±È²Ã¨³Ş,0,70,60,¼Şª²ÄŞÛÊŞØ°,Mr.Prospector,Lyphard,Raise a Native,Nijinsky,Northern Dancer,Riva Ridge,Native Dancer,Nashua,Northern Dancer,Forli,Nearctic,Court Martial,First Landing,O'Grady,feee,YIrj
 ´³ÛÊß,É°»ŞİÀŞİ»°,0,62,68,Nureyev,Northern Dancer,Hostage,Nearctic,Forli,Nijinsky,Vaguely Noble,Nearco,Native Dancer,Aristophanes,Nantallah,Northern Dancer,Val de Loir,³Ş¨´Å,Never Bend,ebeb,YIrj
 ĞÚÆ±ÑËÛ²İ,É°»ŞİÀŞİ»°,0,60,70,Awesome Again,Deputy Minister,Storm Bird,Vice Regent,Blushing Groom,Northern Dancer,Coastal,Northern Dancer,Bunty's Flight,Red God,Mr.Prospector,Nearctic,New Providence,Majestic Prince,Sanctus,eeef,YIrj
-Ì§°½Äµ°ÀŞ°*,ØÎŞ°,0,56,72,Law Society,Alleged,¹Ş²Ò¾İ,Hoist the Flag,Boldnesian,Vaguely Noble,Northern Dancer,Tom Rolfe,Prince John,Bold Ruler,Summer Tan,³Ş¨´Å,Sir Gaylord,Nearctic,Sir Ivor,kebe,YIrj
+ÕØ²¶,ØÎŞ°,0,56,72,Law Society,Alleged,¹Ş²Ò¾İ,Hoist the Flag,Boldnesian,Vaguely Noble,Northern Dancer,Tom Rolfe,Prince John,Bold Ruler,Summer Tan,³Ş¨´Å,Sir Gaylord,Nearctic,Sir Ivor,kebe,YIrj
 ËŞ°±İËŞ¼¬½,ÌßØİ½·Û,0,74,52,Meadowlake,Hold Your Peace,In Reality,Speak John,Raise a Native,Intentionally,Crozier,Prince John,Eight Thirty,Native Dancer,Porterhouse,Intent,Rough'n Tumble,My Babu,Bar Le Duc,kfcm,YIrj
-´Ò×ÙÄŞÏ»·*,É°»ŞİÀŞİ»°,0,72,54,Û¯¸µÌŞ¼ŞÌŞ×ÙÀÙ,Danhill,Nureyev,Danzig,Be My Guest,Northern Dancer,Alydar,Northern Dancer,His Majesty,Northern Dancer,Bold Lad,Nearctic,Forli,Raise a Native,Gallant Romeo,eeef,YIrj
-±Æµİ·Ş¬¯Ìß*,Ú²½Ş±È²Ã¨³Ş,0,70,56,Lycius,Mr.Prospector,Sadler's Wells,Raise a Native,Lyphard,Northern Dancer,Vaguely Noble,Native Dancer,Nashua,Northern Dancer,Ê²Ê¯Ä,Nearctic,Bold Reason,³Ş¨´Å,Reviewer,feeb,YIrj
-Å²Ä±Û°İ*,É°»ŞİÀŞİ»°,0,66,60,Salt Lake,Deputy Minister,Spectacular Bid,Vice Regent,Queen City Lad,Bold Bidder,Hard Work,Northern Dancer,Bunty's Flight,Olden Times,Take Away,Bold Ruler,Promised Land,Golden Ruler,Mt. Hope,eceb,YIrj
-¸Ş×İÄŞµ°Ìßİ*,Í²ÙÄ©Ø°½Şİ,0,66,60,»İÃŞ°»²Úİ½,Halo,¾¸ÚÄ,Hail to Reason,Understanding,Northern Dancer,Faraway Son,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Nearctic,Secretariat,Ambiopoise,Blue Prince,ejem,YIrj
-Ğ°Ñ¾İ½*,¸×Øµİ,0,56,70,Indian Ridge,Ahonoora,Caerleon,Lorenzaccio,Swing Easy,Nijinsky,Caro,Klairon,Martial,Delta Judge,½¶²Ï½À°,Northern Dancer,Round Table,Ì«ÙÃ¨É,Carvin,mbee,YIrj
-ÌßÙ°¸ÎŞ°¹Şİ*,Ì§²İÄ¯Ìß,0,50,76,»¯¶°ÎŞ°²,ÃŞ¨¸À½,Crimson Satan,Sanctus,É°»ŞİÃ°½Ä,Spy Song,Rattle Dancer,Fine Top,Worden,Northern Dancer,Princely Gift,Balladier,Requiebro,Native Dancer,Klairon,belf,YIrj
-É°ÌŞÚ½ÒÄŞÚ°*,¾ŞÀŞ°İ,0,68,56,ÄÆ°ËŞİ,¶İÊß×,ÏÙ¾Şİ½·°,Kalamoun,Hornbeam,Nijinsky,³ŞªİÁ±,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Northern Dancer,Buckpasser,Relic,¹Ş²À²Ñ,ebec,YIrj
+ºŞÙÃŞ¨Û¯¸½,É°»ŞİÀŞİ»°,0,72,54,Û¯¸µÌŞ¼ŞÌŞ×ÙÀÙ,Danhill,Nureyev,Danzig,Be My Guest,Northern Dancer,Alydar,Northern Dancer,His Majesty,Northern Dancer,Bold Lad,Nearctic,Forli,Raise a Native,Gallant Romeo,eeef,YIrj
+Ú¼ŞªİÄŞµÌŞ»ŞÅÄŞ©,Ú²½Ş±È²Ã¨³Ş,0,70,56,Lycius,Mr.Prospector,Sadler's Wells,Raise a Native,Lyphard,Northern Dancer,Vaguely Noble,Native Dancer,Nashua,Northern Dancer,Ê²Ê¯Ä,Nearctic,Bold Reason,³Ş¨´Å,Reviewer,feeb,YIrj
+¸×¼°Ó°ÄŞ,É°»ŞİÀŞİ»°,0,66,60,Salt Lake,Deputy Minister,Spectacular Bid,Vice Regent,Queen City Lad,Bold Bidder,Hard Work,Northern Dancer,Bunty's Flight,Olden Times,Take Away,Bold Ruler,Promised Land,Golden Ruler,Mt. Hope,eceb,YIrj
+¼ÅÓİÄŞÛ¯Ìß,Í²ÙÄ©Ø°½Şİ,0,66,60,»İÃŞ°»²Úİ½,Halo,¾¸ÚÄ,Hail to Reason,Understanding,Northern Dancer,Faraway Son,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Nearctic,Secretariat,Ambiopoise,Blue Prince,ejem,YIrj
+ÊßÙÅ¼±İ,¸×Øµİ,0,56,70,Indian Ridge,Ahonoora,Caerleon,Lorenzaccio,Swing Easy,Nijinsky,Caro,Klairon,Martial,Delta Judge,½¶²Ï½À°,Northern Dancer,Round Table,Ì«ÙÃ¨É,Carvin,mbee,YIrj
+ĞØµİÁ¬İ½,Ì§²İÄ¯Ìß,0,50,76,»¯¶°ÎŞ°²,ÃŞ¨¸À½,Crimson Satan,Sanctus,É°»ŞİÃ°½Ä,Spy Song,Rattle Dancer,Fine Top,Worden,Northern Dancer,Princely Gift,Balladier,Requiebro,Native Dancer,Klairon,belf,YIrj
+Ü²İ´Á¹¯Ä,¾ŞÀŞ°İ,0,68,56,ÄÆ°ËŞİ,¶İÊß×,ÏÙ¾Şİ½·°,Kalamoun,Hornbeam,Nijinsky,³ŞªİÁ±,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Northern Dancer,Buckpasser,Relic,¹Ş²À²Ñ,ebec,YIrj
 ¶Ñ¼¬²Æİ¸Ş,É°»ŞİÀŞİ»°,0,58,66,Caerleon,Nijinsky,Sadler's Wells,Northern Dancer,Round Table,Northern Dancer,Top Ville,Nearctic,Bull Page,Princequillo,Hail to Reason,Nearctic,Bold Reason,High Top,Val de Loir,eked,YIrj
-ÖÛºËŞÉ³À*,Ï²ÊŞÌŞ°,0,56,68,Ò¼ŞÛÏ¯¸²°İ,Ò¼ŞÛÃ¨À°İ,ÌßÙ×Ø½ŞÑ,Ò¼ŞÛ±»Ï,ØÏİÄŞ,The Minstrel,Ä×²ÊŞÙÁ°Ì,Êß°¿Ûİ,½É¯ÌŞ,Alcide,ËİÄŞ½Àİ,Northern Dancer,Roberto,Princely Gift,×°¸½Êß°,miee,YIrj
+½Íß¼¬ÙÎŞ°Å½,Ï²ÊŞÌŞ°,0,56,68,Ò¼ŞÛÏ¯¸²°İ,Ò¼ŞÛÃ¨À°İ,ÌßÙ×Ø½ŞÑ,Ò¼ŞÛ±»Ï,ØÏİÄŞ,The Minstrel,Ä×²ÊŞÙÁ°Ì,Êß°¿Ûİ,½É¯ÌŞ,Alcide,ËİÄŞ½Àİ,Northern Dancer,Roberto,Princely Gift,×°¸½Êß°,miee,YIrj
 ÚÃŞ¨µÌŞ×¯¸,ÊİÌßÄİ,0,54,70,Platini,Surumu,Sure Blade,Literat,Stanford,Kris,Konigsstuhl,Birkhahn,Reliance,Red God,Northfields,Sharpen Up,Home Guard,Dschingis Khan,Bacchus,befi,YIrj
-³¨ÙÛ¯¸*,Í²ÙÄ©Ø°½Şİ,0,66,56,»İÃŞ°»²Úİ½,Halo,É°»ŞİÃ°½Ä,Hail to Reason,Understanding,Northern Dancer,Crimson Satan,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Nearctic,Victoria Park,Spy Song,Beau Max,ejel,YIrj
-ÌßÙ°ÌÏ½¶×*,´Àİ,0,58,64,Halling,Diesis,Fairy King,Sharpen Up,Green Dancer,Northern Dancer,Ú¯ÄŞ±×°Ä,´Àİ,Reliance,Nijinsky,Pontifex,Nearctic,Bold Reason,Red God,Pampered King,feee,YIrj
-¿ÛĞ­°Ä¿İ¸Ş*,¾ŞÀŞ°İ,0,56,66,ÄÆ°ËŞİ,¶İÊß×,Always Run Lucky,Kalamoun,Hornbeam,What Luck,Irish River,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Bold Ruler,Delta Judge,Riverman,Northern Dancer,ebee,YIrj
-¸Ø¯Ìß¸Ø¯Ëß°*,Æ±°¸Ã¨¯¸,0,54,68,Wild Again,Icecapade,Mo Exception,Nearctic,Khaled,Hard Work,Sir Wiggle,Nearco,Native Dancer,Hyperion,Dante,Golden Ruler,Pan Dancer,Sadair,Nodouble,ebbb,YIrj
-²°×²»Ş*,É°»ŞİÀŞİ»°,0,52,70,Chief's Crown,Danzig,Key to the Mint,Northern Dancer,Secretariat,Graustark,Cornish Prince,Nearctic,Admiral's Voyage,Bold Ruler,Swoon's Son,Ribot,Princequillo,Bold Ruler,T.V. Lark,eeke,YIrj
-ÊÛ³¨İÊß°Ã¨*,ØÎŞ°,0,50,72,Pleasant Tap,Pleasant Colony,Petrone,His Majesty,Stage Door Johnny,Prince Taj,Grand Central,Ribot,Sunrise Flight,Prince John,Never Bend,Prince Bio,Wild Risk,Hasty Road,Creme dela Creme,kkkj,YIrj
-·¬Ø°½Ã¯Ìß*,É°»ŞİÀŞİ»°,0,68,52,Dixieland Band,Northern Dancer,Lord Gaylord,Nearctic,Delta Judge,Sir Gaylord,Dancing Count,Nearco,Native Dancer,Traffic Judge,Warfare,Turn-to,Ambiorix,Northern Dancer,Third Brother,ebee,YIrj
-Ì§°½ÄÄŞØ¯Ìß*,ØÎŞ°,0,68,54,À²Ä½Îß¯Ä,His Majesty,ÃŞ²İËÙ,Ribot,Lyphard,Danzig,Cure the Blues,Tenerani,Alibhai,Northern Dancer,Never Bend,Northern Dancer,His Majesty,Stop the Music,Hail to Reason,keee,YIrj
-º°ÙÏ²ÅİÊŞ°*,Ú²½Ş±È²Ã¨³Ş,0,64,56,Í¸À°ÌßÛÃ¸À°,Woodman,Vaguely Noble,Mr.Prospector,Riverman,³Ş¨´Å,Sir Ivor,Raise a Native,Buckpasser,Never Bend,Damascus,Aureole,Nearco,Sir Gaylord,Pardao,febe,YIrj
-½×²ÄŞ¿°»°*,¾ŞÀŞ°İ,0,62,58,ÄÆ°ËŞİ,¶İÊß×,Caerleon,Kalamoun,Hornbeam,Nijinsky,Blushing Groom,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Northern Dancer,Round Table,Red God,Sparkler,ebee,YIrj
+Á­°Ø¯Ìß×²İ,Í²ÙÄ©Ø°½Şİ,0,66,56,»İÃŞ°»²Úİ½,Halo,É°»ŞİÃ°½Ä,Hail to Reason,Understanding,Northern Dancer,Crimson Satan,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Nearctic,Victoria Park,Spy Song,Beau Max,ejel,YIrj
+Ğ½ÃØ±½¾ÚÌŞ,´Àİ,0,58,64,Halling,Diesis,Fairy King,Sharpen Up,Green Dancer,Northern Dancer,Ú¯ÄŞ±×°Ä,´Àİ,Reliance,Nijinsky,Pontifex,Nearctic,Bold Reason,Red God,Pampered King,feee,YIrj
+ÀŞ°¸»²ÄŞÑ°İ,¾ŞÀŞ°İ,0,56,66,ÄÆ°ËŞİ,¶İÊß×,Always Run Lucky,Kalamoun,Hornbeam,What Luck,Irish River,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Bold Ruler,Delta Judge,Riverman,Northern Dancer,ebee,YIrj
+¼ÍŞØÔ,Æ±°¸Ã¨¯¸,0,54,68,Wild Again,Icecapade,Mo Exception,Nearctic,Khaled,Hard Work,Sir Wiggle,Nearco,Native Dancer,Hyperion,Dante,Golden Ruler,Pan Dancer,Sadair,Nodouble,ebbb,YIrj
+ÅËŞ¨,É°»ŞİÀŞİ»°,0,52,70,Chief's Crown,Danzig,Key to the Mint,Northern Dancer,Secretariat,Graustark,Cornish Prince,Nearctic,Admiral's Voyage,Bold Ruler,Swoon's Son,Ribot,Princequillo,Bold Ruler,T.V. Lark,eeke,YIrj
+Ú¶Ş¼°µÌŞ±°½,ØÎŞ°,0,50,72,Pleasant Tap,Pleasant Colony,Petrone,His Majesty,Stage Door Johnny,Prince Taj,Grand Central,Ribot,Sunrise Flight,Prince John,Never Bend,Prince Bio,Wild Risk,Hasty Road,Creme dela Creme,kkkj,YIrj
+ÃŞ¨½ºÃ¨°¸,É°»ŞİÀŞİ»°,0,68,52,Dixieland Band,Northern Dancer,Lord Gaylord,Nearctic,Delta Judge,Sir Gaylord,Dancing Count,Nearco,Native Dancer,Traffic Judge,Warfare,Turn-to,Ambiorix,Northern Dancer,Third Brother,ebee,YIrj
+Ì§¯¼È°¼®İ,ØÎŞ°,0,68,54,À²Ä½Îß¯Ä,His Majesty,ÃŞ²İËÙ,Ribot,Lyphard,Danzig,Cure the Blues,Tenerani,Alibhai,Northern Dancer,Never Bend,Northern Dancer,His Majesty,Stop the Music,Hail to Reason,keee,YIrj
+³Ş§ÆÃ¨°Ìª±,Ú²½Ş±È²Ã¨³Ş,0,64,56,Í¸À°ÌßÛÃ¸À°,Woodman,Vaguely Noble,Mr.Prospector,Riverman,³Ş¨´Å,Sir Ivor,Raise a Native,Buckpasser,Never Bend,Damascus,Aureole,Nearco,Sir Gaylord,Pardao,febe,YIrj
+µ¯¹°ÊŞ°ÃŞ¨°,¾ŞÀŞ°İ,0,62,58,ÄÆ°ËŞİ,¶İÊß×,Caerleon,Kalamoun,Hornbeam,Nijinsky,Blushing Groom,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Northern Dancer,Round Table,Red God,Sparkler,ebee,YIrj
 ÎŞİÏÙ¼ª,É°»ŞİÀŞİ»°,0,56,64,Danhill,Danzig,Averof,Northern Dancer,His Majesty,Sing Sing,Major Portion,Nearctic,Admiral's Voyage,Ribot,Buckpasser,Tudor Minstrel,Nearco,Court Martial,Ribot,ekbg,YIrj
-±Ù¶¼Öİ*,Í²ÙÄ©Ø°½Şİ,0,54,66,ÌŞ×²±İ½ŞÀ²Ñ,Roberto,Northern Dancer,Hail to Reason,Graustark,Nearctic,In Reality,Turn-to,Nashua,Ribot,Hasty Road,Nearco,Native Dancer,Intentionally,Dedicate,ekec,YIrj
-¼Ş®¯¸Û¯¶°*,Ú²½Ş±È²Ã¨³Ş,0,64,54,¶º²°¼°½Ş,Alydar,ÏÙ¾Şİ½·°,Raise a Native,Jester,Nijinsky,½Ã¨İÃ¨É,Native Dancer,On-and-On,Tom Fool,Nasrullah,Northern Dancer,Buckpasser,Sheshoon,Misty Day,fhec,YIrj
-³Ş§ÙÊ×¸²°İ*,Í²ÙÄ©Ø°½Şİ,0,62,56,»İÃŞ°»²Úİ½,Halo,ÎßÂ¾,Hail to Reason,Understanding,Forli,High Top,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Aristophanes,Bold Ruler,Derring-Do,¾İÄ¸Ú½Ëßİ,ejbd,YIrj
-´À°ÅÙÌ«°½*,É°»ŞİÀŞİ»°,0,60,58,Caerleon,Nijinsky,Shirley Heights,Northern Dancer,Round Table,Mill Reef,Tennyson,Nearctic,Bull Page,Princequillo,Hail to Reason,Never Bend,Ê°ÃŞ¨¶Ç°Ä,Val de Loir,¾ŞÀŞ°İ,ekei,YIrj
-Û¼Ş¶Ù¼İ·İ¸Ş*,ÃÃŞ¨,0,56,62,Private Account,Damascus,Danzig,Sword Dancer,Buckpasser,Northern Dancer,Sir Ivor,Sunglow,My Babu,Tom Fool,Swaps,Nearctic,Admiral's Voyage,Sir Gaylord,Never Bend,jhee,YIrj
-ººÅ¯Â¶Ş°Ù*,Ú²½Ş±È²Ã¨³Ş,0,54,64,´ÙºİÄŞÙÊß»°,Kingmambo,ÄÆ°ËŞİ,Mr.Prospector,Sadler's Wells,¶İÊß×,Lyphard,Raise a Native,Nureyev,Northern Dancer,Seattle Slew,Kalamoun,Hornbeam,Northern Dancer,Bupers,feee,YIrj
-·¬ÊŞÙØ°¼İ¸Ş*,È³Ş§°ÍŞİÄŞ,0,52,66,Loup Sauvage,Riverman,Akarad,Never Bend,Nureyev,Labus,Miswaki,Nasrullah,Prince John,Northern Dancer,ÌßØÒ×,Busted,Abdos,Mr.Prospector,Lyphard,eeif,YIrj
+ÌßØİ¾½ÃŞ²¼Ş°,Í²ÙÄ©Ø°½Şİ,0,54,66,ÌŞ×²±İ½ŞÀ²Ñ,Roberto,Northern Dancer,Hail to Reason,Graustark,Nearctic,In Reality,Turn-to,Nashua,Ribot,Hasty Road,Nearco,Native Dancer,Intentionally,Dedicate,ekec,YIrj
+ÍßÊß°ĞİÄÌŞÙ°,Ú²½Ş±È²Ã¨³Ş,0,64,54,¶º²°¼°½Ş,Alydar,ÏÙ¾Şİ½·°,Raise a Native,Jester,Nijinsky,½Ã¨İÃ¨É,Native Dancer,On-and-On,Tom Fool,Nasrullah,Northern Dancer,Buckpasser,Sheshoon,Misty Day,fhec,YIrj
+É°Ù¯¸Êß½,Í²ÙÄ©Ø°½Şİ,0,62,56,»İÃŞ°»²Úİ½,Halo,ÎßÂ¾,Hail to Reason,Understanding,Forli,High Top,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Aristophanes,Bold Ruler,Derring-Do,¾İÄ¸Ú½Ëßİ,ejbd,YIrj
+¼°ÏØİ,É°»ŞİÀŞİ»°,0,60,58,Caerleon,Nijinsky,Shirley Heights,Northern Dancer,Round Table,Mill Reef,Tennyson,Nearctic,Bull Page,Princequillo,Hail to Reason,Never Bend,Ê°ÃŞ¨¶Ç°Ä,Val de Loir,¾ŞÀŞ°İ,ekei,YIrj
+ÃŞÓÈÀÌŞİ·¯Ä,ÃÃŞ¨,0,56,62,Private Account,Damascus,Danzig,Sword Dancer,Buckpasser,Northern Dancer,Sir Ivor,Sunglow,My Babu,Tom Fool,Swaps,Nearctic,Admiral's Voyage,Sir Gaylord,Never Bend,jhee,YIrj
+ĞÆ¯ÂØËß°À°,Ú²½Ş±È²Ã¨³Ş,0,54,64,´ÙºİÄŞÙÊß»°,Kingmambo,ÄÆ°ËŞİ,Mr.Prospector,Sadler's Wells,¶İÊß×,Lyphard,Raise a Native,Nureyev,Northern Dancer,Seattle Slew,Kalamoun,Hornbeam,Northern Dancer,Bupers,feee,YIrj
+Íß²İÌÙÓ°ÒİÄ,È³Ş§°ÍŞİÄŞ,0,52,66,Loup Sauvage,Riverman,Akarad,Never Bend,Nureyev,Labus,Miswaki,Nasrullah,Prince John,Northern Dancer,ÌßØÒ×,Busted,Abdos,Mr.Prospector,Lyphard,eeif,YIrj
 ÀŞÌŞÙÃŞ¨°Øİ¸Ş,É°»ŞİÀŞİ»°,0,72,44,ÃİËŞ°,Caerleon,¶º²°¼°½Ş,Nijinsky,Kalaglow,Alydar,ÏÙ¾Şİ½·°,Northern Dancer,Round Table,Kalamoun,Mill Reef,Raise a Native,Jester,Nijinsky,ÎŞ°ÙÄŞ×¯ÄŞ,eefe,YIrj
 ¹²Ïİ±²×İÄŞ,Ú²½Ş±È²Ã¨³Ş,0,66,50,Alydar,Raise a Native,Lt. Stevens,Native Dancer,On-and-On,Nantallah,Stevedore,Polynesian,Case Ace,Nasrullah,Ponder,Nasrullah,Gold Bridge,Amarullah,The Solicitor,feee,YIrj
 ºŞ°ÙÃŞİ±¯ÌßÙ,É°»ŞİÀŞİ»°,0,64,52,Pivotal,Polar Falcon,Common Grounds,Nureyev,Cozzene,Kris,Shareef Dancer,Northern Dancer,Jefferson,Caro,Bustino,Sharpen Up,Lyphard,Northern Dancer,ÀŞ½ÄºÏİÀŞ°,eefe,YIrj
-µÙÀÅÃ¨ÌŞ*,Ì«ÙÃ¨É,0,62,54,Cozzene,Caro,Lyphard,Ì«ÙÃ¨É,Prince John,Northern Dancer,Gyr,Grey Sovereign,Chamossaire,Princequillo,Sir Gaylord,Nearctic,Court Martial,Sea-Bird,Grey Sovereign,ekef,YIrj
+µ·ÄŞ·½ÄØ°Ä,Ì«ÙÃ¨É,0,62,54,Cozzene,Caro,Lyphard,Ì«ÙÃ¨É,Prince John,Northern Dancer,Gyr,Grey Sovereign,Chamossaire,Princequillo,Sir Gaylord,Nearctic,Court Martial,Sea-Bird,Grey Sovereign,ekef,YIrj
 Ğ¯ÄŞÅ²Ä¶İ¶ŞÙ°,Ú²½Ş±È²Ã¨³Ş,0,60,56,Grindstone,Unbridled,Storm Cat,Fappiano,Drone,Storm Bird,Great Nephew,Mr.Prospector,Le Fabuleux,Sir Gaylord,¼¬Ä°¹Ş²,Northern Dancer,Secretariat,Honeyway,Le Fabuleux,feeg,YIrj
 ÌªÉĞÅ,Ú²½Ş±È²Ã¨³Ş,0,56,60,Dubai Millennium,Seeking the Gold,Danzig,Mr.Prospector,Shareef Dancer,Northern Dancer,His Majesty,Raise a Native,Buckpasser,Northern Dancer,Pretense,Nearctic,Admiral's Voyage,Ribot,Raise a Native,feek,YIrj
-ĞØÀØ°¶Ş°Ù*,Ú²½Ş±È²Ã¨³Ş,0,54,62,Kingmambo,Mr.Prospector,Sadler's Wells,Raise a Native,Nureyev,Northern Dancer,Pretense,Native Dancer,Nashua,Northern Dancer,Prove Out,Nearctic,Bold Reason,Endeavour,Swaps,feed,YIrj
+½º°ÙĞ­°¼Ş¯¸,Ú²½Ş±È²Ã¨³Ş,0,54,62,Kingmambo,Mr.Prospector,Sadler's Wells,Raise a Native,Nureyev,Northern Dancer,Pretense,Native Dancer,Nashua,Northern Dancer,Prove Out,Nearctic,Bold Reason,Endeavour,Swaps,feed,YIrj
 ÊÓİ¾×°É,Ú²½Ş±È²Ã¨³Ş,0,52,64,Í¸À°ÌßÛÃ¸À°,Woodman,Assert,Mr.Prospector,Riverman,Be My Guest,Mount Hagen,Raise a Native,Buckpasser,Never Bend,Damascus,Northern Dancer,Sea-Bird,Bold Bidder,Gratitude,feee,YIrj
 Ã¨µÍßÍß,Í²ÙÄ©Ø°½Şİ,0,50,66,»İÃŞ°»²Úİ½,Halo,Top Ville,Hail to Reason,Understanding,High Top,Reliance,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Derring-Do,Charlottesville,Tantieme,Botticelli,ejdj,YIrj
-¸ŞÛ³×²Ä*,ÎŞ°ÙÄŞÙ°×°,0,64,50,A.P. Indy,Seattle Slew,Caerleon,Bold Reasoning,Secretariat,Nijinsky,Top Ville,Boldnesian,Poker,Bold Ruler,Buckpasser,Northern Dancer,Round Table,High Top,³ŞªİÁ±,eeed,YIrj
-ÌŞÛÄŞ³ª²½Ş*,È³Ş§°ÍŞİÄŞ,0,62,52,Bahri,Riverman,Roberto,Never Bend,Nijinsky,Hail to Reason,Nijinsky,Nasrullah,Prince John,Northern Dancer,Bold Bidder,Turn-to,Nashua,Northern Dancer,Nantallah,eeee,YIrj
-ÌŞØİ¸Ş²¯Äµİ*,ÀŞİÃ,0,60,54,Pistolet Bleu,Top Ville,Tourangeau,High Top,Armos,Val de Loir,Cadmus,Derring-Do,Charlottesville,Mossborough,Klairon,Vieux Manoir,Tornado,Supreme Court,Soleil Levant,ddic,YIrj
-Ìª²¸½Ø°Êß°*,È²Ã¨³ŞÀŞİ»°,0,58,56,Bering,Arctic Tern,African Song,Sea-Bird,Lyphard,African Sky,ÃŞ¨¸À½,Dan Cupid,Hasty Road,Northern Dancer,Le Fabuleux,Sing Sing,Native Prince,Sanctus,Soleil Levant,febb,YIrj
+¼Şİ×Ğ°,ÎŞ°ÙÄŞÙ°×°,0,64,50,A.P. Indy,Seattle Slew,Caerleon,Bold Reasoning,Secretariat,Nijinsky,Top Ville,Boldnesian,Poker,Bold Ruler,Buckpasser,Northern Dancer,Round Table,High Top,³ŞªİÁ±,eeed,YIrj
+ÍŞØ°Ì¨°ÙÄŞ,È³Ş§°ÍŞİÄŞ,0,62,52,Bahri,Riverman,Roberto,Never Bend,Nijinsky,Hail to Reason,Nijinsky,Nasrullah,Prince John,Northern Dancer,Bold Bidder,Turn-to,Nashua,Northern Dancer,Nantallah,eeee,YIrj
+ÍŞÙØİÌŞÙ°,ÀŞİÃ,0,60,54,Pistolet Bleu,Top Ville,Tourangeau,High Top,Armos,Val de Loir,Cadmus,Derring-Do,Charlottesville,Mossborough,Klairon,Vieux Manoir,Tornado,Supreme Court,Soleil Levant,ddic,YIrj
+ÄŞÚ¯¼°ÏÀŞÑ,È²Ã¨³ŞÀŞİ»°,0,58,56,Bering,Arctic Tern,African Song,Sea-Bird,Lyphard,African Sky,ÃŞ¨¸À½,Dan Cupid,Hasty Road,Northern Dancer,Le Fabuleux,Sing Sing,Native Prince,Sanctus,Soleil Levant,febb,YIrj
 ÎßİÃŞ¹°¼Ş®,Ú²½Ş±È²Ã¨³Ş,0,54,60,Ì«°Ã¨Å²Å°,Mr.Prospector,Lt. Stevens,Raise a Native,Tom Rolfe,Nantallah,The Axe,Native Dancer,Nashua,Ribot,Double Jay,Nasrullah,Gold Bridge,Mahmoud,Warfare,fkei,YIrj
-±¸¾½Ï¯Ìß*,Ú²½Ş±È²Ã¨³Ş,0,52,62,´ÙºİÄŞÙÊß»°,Kingmambo,»İÃŞ°»²Úİ½,Mr.Prospector,Sadler's Wells,Halo,É°»ŞİÃ°½Ä,Raise a Native,Nureyev,Northern Dancer,Seattle Slew,Hail to Reason,Understanding,Northern Dancer,¶Ş°»İÄ,feee,YIrj
+Ê½·°ÄÚÓÛ,Ú²½Ş±È²Ã¨³Ş,0,52,62,´ÙºİÄŞÙÊß»°,Kingmambo,»İÃŞ°»²Úİ½,Mr.Prospector,Sadler's Wells,Halo,É°»ŞİÃ°½Ä,Raise a Native,Nureyev,Northern Dancer,Seattle Slew,Hail to Reason,Understanding,Northern Dancer,¶Ş°»İÄ,feee,YIrj
 ÄŞ°Å¯Â½Ëßİ,Ú²½Ş±È²Ã¨³Ş,0,50,64,Machiavellian,Mr.Prospector,Polish Precedent,Raise a Native,Halo,Danzig,Saritamer,Native Dancer,Nashua,Hail to Reason,Hoist the Flag,Northern Dancer,Buckpasser,ÀŞİ»°½Ş²Ò°¼Ş,High Line,feef,YIrj
-Ò²ËŞ°±²*,É°»ŞİÀŞİ»°,0,70,43,É°»ŞİÃ°½Ä,Northern Dancer,ÃŞ¨¸À½,Nearctic,Victoria Park,Sanctus,Princely Gift,Nearco,Native Dancer,Chop Chop,Hyperion,Fine Top,Worden,Nasrullah,Prince Chevalier,ejbe,YIrj
-ÀŞİÁª¯¸*,É°»ŞİÀŞİ»°,0,66,46,Green Desert,Danzig,Beau Genius,Northern Dancer,Sir Ivor,Bold Ruckus,Mr. Leader,Nearctic,Admiral's Voyage,Sir Gaylord,Never Bend,Boldnesian,³Ş§²½Ø°¶ŞÙ,Hail to Reason,Raise a Native,eeee,YIrj
+¹Ş°ÑÌß×İ,É°»ŞİÀŞİ»°,0,70,43,É°»ŞİÃ°½Ä,Northern Dancer,ÃŞ¨¸À½,Nearctic,Victoria Park,Sanctus,Princely Gift,Nearco,Native Dancer,Chop Chop,Hyperion,Fine Top,Worden,Nasrullah,Prince Chevalier,ejbe,YIrj
+ËŞ¼Ş­±ÙºİÃ½Ä,É°»ŞİÀŞİ»°,0,66,46,Green Desert,Danzig,Beau Genius,Northern Dancer,Sir Ivor,Bold Ruckus,Mr. Leader,Nearctic,Admiral's Voyage,Sir Gaylord,Never Bend,Boldnesian,³Ş§²½Ø°¶ŞÙ,Hail to Reason,Raise a Native,eeee,YIrj
 ´²ÀŞ,Ú²½Ş±È²Ã¨³Ş,0,64,48,Crafty Prospector,Mr.Prospector,¾¸ÚÄ,Raise a Native,In Reality,Northern Dancer,Olden Times,Native Dancer,Nashua,Intentionally,Royal Note,Nearctic,Secretariat,Relic,Pronto,fcec,YIrj
 Ú¯ÂÎŞ°²ÊİÄ,Í²ÙÄ©Ø°½Şİ,0,62,50,»İÃŞ°»²Úİ½,Halo,Le Fabuleux,Hail to Reason,Understanding,Wild Risk,In Reality,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Rialto,Verso,Intentionally,Cornish Prince,ejkc,YIrj
 Î¯ÄÂ²°Ä,É°»ŞİÀŞİ»°,0,60,52,¼İ¸Ş½Ëß°Ù,In the Wings,Machiavellian,Sadler's Wells,Halo,Mr.Prospector,Bustino,Northern Dancer,Shirley Heights,Hail to Reason,Herbager,Raise a Native,Halo,Busted,Lorenzaccio,eefi,YIrj
-ØÄÙÀŞ°Ñ*,É°»ŞİÀŞİ»°,0,58,54,Grand Lodge,Chief's Crown,Thatching,Danzig,Habitat,Thatch,Busted,Northern Dancer,Secretariat,Sir Gaylord,Tudor Melody,Forli,Abernant,Crepello,Queen's Hussar,eebi,YIrj
+ÍŞ¯·°,É°»ŞİÀŞİ»°,0,58,54,Grand Lodge,Chief's Crown,Thatching,Danzig,Habitat,Thatch,Busted,Northern Dancer,Secretariat,Sir Gaylord,Tudor Melody,Forli,Abernant,Crepello,Queen's Hussar,eebi,YIrj
 ÍŞ²Ø°½ŞËŞ°½Ş,Ú²½Ş±È²Ã¨³Ş,0,54,58,Seeking the Gold,Mr.Prospector,Chief's Crown,Raise a Native,Buckpasser,Danzig,Riva Ridge,Native Dancer,Nashua,Tom Fool,Hasty Road,Northern Dancer,Secretariat,First Landing,Native Dancer,fhee,YIrj
 ÌßØÃ¨°Ì×ĞİºŞ,É°»ŞİÀŞİ»°,0,52,60,Sadler's Wells,Northern Dancer,Riverman,Nearctic,Bold Reason,Never Bend,Graustark,Nearco,Native Dancer,Hail to Reason,Forli,Nasrullah,Prince John,Ribot,Princequillo,eeek,YIrj
 ¶Ş°Ø¯¼­Ñ°³Ş,Í²ÙÄ©Ø°½Şİ,0,50,62,»İÃŞ°»²Úİ½,Halo,Argument,Hail to Reason,Understanding,Kautokeino,³Ş§²½Ø°¶ŞÙ,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Relko,Tapioca,Northern Dancer,Tudor Melody,ejje,YIrj
-¸Ş×ÌŞ±ÊŞ²Ä*,É°»ŞİÀŞİ»°,0,44,68,´Ø¼µ,Fairy King,Caveat,Northern Dancer,Slewpy,Cannonade,Nijinsky,Nearctic,Bold Reason,Seattle Slew,Val de l'Orne,Bold Bidder,The Axe,Northern Dancer,Herbager,eeee,YIrj
+ÍŞ¯ÄÕ±ÌŞ°Â,É°»ŞİÀŞİ»°,0,44,68,´Ø¼µ,Fairy King,Caveat,Northern Dancer,Slewpy,Cannonade,Nijinsky,Nearctic,Bold Reason,Seattle Slew,Val de l'Orne,Bold Bidder,The Axe,Northern Dancer,Herbager,eeee,YIrj
 ¶ŞİÏÚ²ÊŞ°½Ä,É°»ŞİÀŞİ»°,0,42,70,¼ŞªÈ×½,Caerleon,Ø±Ù¼¬ÀŞ²,Nijinsky,Master Derby,Roberto,Sham,Northern Dancer,Round Table,ÀŞ½ÄºÏİÀŞ°,Tulyar,Hail to Reason,In Reality,Pretense,Never Bend,eeed,YIrj
 ÃÚĞİ,Ú²½Ş±È²Ã¨³Ş,0,68,42,Miswaki,Mr.Prospector,Key to the Mint,Raise a Native,Buckpasser,Graustark,Halo,Native Dancer,Nashua,Tom Fool,Princequillo,Ribot,Princequillo,Hail to Reason,Northern Dancer,fhke,YIrj
-±²ÑÎ°Ñ*,ÌßØİ½Ø°·ŞÌÄ,0,66,44,»¸×ÊŞ¸¼İµ°,»¸×ÕÀ¶µ°,¼ª²ÃŞ¨Ê²Â,Ã½ºÎŞ°²,É°»ŞİÃ°½Ä,Shirley Heights,Ó¶ŞĞ,Princely Gift,È³Ş§°ËŞ°Ä,Northern Dancer,Ambiopoise,Mill Reef,Bold Lad,Lyphard,ÏÙ¾Şİ½·°,eeee,YIrj
+×ÌŞÎß°¼®İ,ÌßØİ½Ø°·ŞÌÄ,0,66,44,»¸×ÊŞ¸¼İµ°,»¸×ÕÀ¶µ°,¼ª²ÃŞ¨Ê²Â,Ã½ºÎŞ°²,É°»ŞİÃ°½Ä,Shirley Heights,Ó¶ŞĞ,Princely Gift,È³Ş§°ËŞ°Ä,Northern Dancer,Ambiopoise,Mill Reef,Bold Lad,Lyphard,ÏÙ¾Şİ½·°,eeee,YIrj
 ÍŞ²ËŞ°ÄŞİ¸×²,Ú²½Ş±È²Ã¨³Ş,0,64,46,Grand Slam,Gone West,Kris S.,Mr.Prospector,El Gran Senor,Roberto,Cyane,Raise a Native,Secretariat,Northern Dancer,Key to the Mint,Hail to Reason,Princequillo,Turn-to,Damascus,feee,YIrj
-¼¸ŞÅÙ·¬¯Á*,É°»ŞİÀŞİ»°,0,62,48,×½ÄÀ²¸°İ,Ä×²Ï²ÍŞ½Ä,Ela-Mana-Mou,Northern Dancer,Mill Reef,Ëß¯Ä¶°İ,Sparkler,Nearctic,Buckpasser,Never Bend,Sayajirao,Petingo,Ê²Ê¯Ä,Hard Tack,Santa Claus,eegd,YIrj
-µÌÀ¯¸Ù*,É°»ŞİÀŞİ»°,0,60,50,Storm Cat,Storm Bird,Alleged,Northern Dancer,Secretariat,Hoist the Flag,Affirmed,Nearctic,New Providence,Bold Ruler,Crimson Satan,Tom Rolfe,Prince John,Exclusive Native,Prince John,eekf,YIrj
-ÒÓØ°¸Û¯¸*,É°»ŞİÀŞİ»°,0,58,52,Giant's Causeway,Storm Cat,Seattle Slew,Storm Bird,Rahy,Bold Reasoning,Private Account,Northern Dancer,Secretariat,Blushing Groom,Roberto,Boldnesian,Poker,Damascus,The Minstrel,eeej,YIrj
-¼­¶Ş°Ú°ÄŞÙ*Ş,¾ŞÀŞ°İ,0,56,54,ÄÆ°ËŞİ,¶İÊß×,Nureyev,Kalamoun,Hornbeam,Northern Dancer,High Line,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Nearctic,Forli,Ê²Ê¯Ä,Tamerlane,ebeb,YIrj
+µ°Á¬°ÄŞÊ³½,É°»ŞİÀŞİ»°,0,62,48,×½ÄÀ²¸°İ,Ä×²Ï²ÍŞ½Ä,Ela-Mana-Mou,Northern Dancer,Mill Reef,Ëß¯Ä¶°İ,Sparkler,Nearctic,Buckpasser,Never Bend,Sayajirao,Petingo,Ê²Ê¯Ä,Hard Tack,Santa Claus,eegd,YIrj
+ÄŞÛÜ°½Ş,É°»ŞİÀŞİ»°,0,60,50,Storm Cat,Storm Bird,Alleged,Northern Dancer,Secretariat,Hoist the Flag,Affirmed,Nearctic,New Providence,Bold Ruler,Crimson Satan,Tom Rolfe,Prince John,Exclusive Native,Prince John,eekf,YIrj
+ÓİÄŞØ±İÙ¯¸,É°»ŞİÀŞİ»°,0,58,52,Giant's Causeway,Storm Cat,Seattle Slew,Storm Bird,Rahy,Bold Reasoning,Private Account,Northern Dancer,Secretariat,Blushing Groom,Roberto,Boldnesian,Poker,Damascus,The Minstrel,eeej,YIrj
+½·¯ÌßËŞ¯ÄŞ,¾ŞÀŞ°İ,0,56,54,ÄÆ°ËŞİ,¶İÊß×,Nureyev,Kalamoun,Hornbeam,Northern Dancer,High Line,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Nearctic,Forli,Ê²Ê¯Ä,Tamerlane,ebeb,YIrj
 ÍŞ×ÄŞİÅ,É°»ŞİÀŞİ»°,0,54,56,»Ş²°Ãİ,Danzig,Red Sunset,Northern Dancer,Habitat,Red God,Espresso,Nearctic,Admiral's Voyage,Sir Gaylord,Tourangeau,Nasrullah,ÄİËßµİ,Acropolis,Djebe,eeei,YIrj
 ¿ØÁ­°ÄŞ,Ì«ÙÃ¨É,0,52,58,ÀÏÓ¸Û½,¼°ËŞ°¸Û½,ÆÎİËßÛ³²Å°,Ì«ÙÃ¨É,¼¬Ä°¹Ş²,½Ã¨°ÙÊ°Ä,É°»ŞİÃ°½Ä,Grey Sovereign,Êß°¿Ûİ,Swaps,Ã­°ÀŞ°ÍßØµ¯ÄŞ,Habitat,Á¬²ÅÛ¯¸,Northern Dancer,Turn-to,ebee,YIrj
-½¸×ÑÏ½À°*,É°»ŞİÀŞİ»°,0,50,60,Sadler's Wells,Northern Dancer,Halo,Nearctic,Bold Reason,Hail to Reason,Herbager,Nearco,Native Dancer,Hail to Reason,Forli,Turn-to,Cosmic Bomb,Vandale,Cohoes,eeeb,YIrj
-´İ¼ŞÆ±ÍŞ²*,È³Ş§°ÍŞİÄŞ,0,48,62,ĞÙ¼Ş®°¼Ş,Mill Reef,É°»ŞİÃ°½Ä,Never Bend,Ragusa,Northern Dancer,Determine,Nasrullah,Princequillo,Ribot,Grey Sovereign,Nearctic,Victoria Park,Alibhai,King Dorsett,ekeb,YIrj
-³ÙÄ×»ÌŞÏØİ*,Ì§²İÄ¯Ìß,0,46,64,»¯¶°ÎŞ°²,ÃŞ¨¸À½,½Ã¨°ÙÊ°Ä,Sanctus,É°»ŞİÃ°½Ä,Habitat,ÀŞ²Ê°ÄŞ,Fine Top,Worden,Northern Dancer,Princely Gift,Sir Gaylord,Abernant,Never Say Die,ËİÄŞ½Àİ,beee,YIrj
+Ï²İÄŞ³ª°ÌŞ,É°»ŞİÀŞİ»°,0,50,60,Sadler's Wells,Northern Dancer,Halo,Nearctic,Bold Reason,Hail to Reason,Herbager,Nearco,Native Dancer,Hail to Reason,Forli,Turn-to,Cosmic Bomb,Vandale,Cohoes,eeeb,YIrj
+¼°»Ş¯Ä¶Ş°Ù,È³Ş§°ÍŞİÄŞ,0,48,62,ĞÙ¼Ş®°¼Ş,Mill Reef,É°»ŞİÃ°½Ä,Never Bend,Ragusa,Northern Dancer,Determine,Nasrullah,Princequillo,Ribot,Grey Sovereign,Nearctic,Victoria Park,Alibhai,King Dorsett,ekeb,YIrj
+¼¸ŞÅÙÚ¯ÄŞ,Ì§²İÄ¯Ìß,0,46,64,»¯¶°ÎŞ°²,ÃŞ¨¸À½,½Ã¨°ÙÊ°Ä,Sanctus,É°»ŞİÃ°½Ä,Habitat,ÀŞ²Ê°ÄŞ,Fine Top,Worden,Northern Dancer,Princely Gift,Sir Gaylord,Abernant,Never Say Die,ËİÄŞ½Àİ,beee,YIrj
 Ï°¼ŞÊŞ°½Ä,É°»ŞİÀŞİ»°,0,64,44,Boundary,Danzig,Woodman,Northern Dancer,Damascus,Mr.Prospector,Aferd,Nearctic,Admiral's Voyage,Sword Dancer,Round Table,Raise a Native,Buckpasser,Hoist the Flag,Beauquillo,ejfk,YIrj
 ĞÆĞÆÃŞ°Ä,Ú²½Ş±È²Ã¨³Ş,0,62,46,Woodman,Mr.Prospector,Nureyev,Raise a Native,Buckpasser,Northern Dancer,Big Spruce,Native Dancer,Nashua,Tom Fool,Swaps,Nearctic,Forli,Herbager,What a Pleasure,fheb,YIrj
 ØÄÙ´İÃŞ¨±İ,ÎŞ°ÙÄŞÙ°×°,0,60,48,A.P. Indy,Seattle Slew,Geiger Counter,Bold Reasoning,Secretariat,Mr.Prospector,Irish River,Boldnesian,Poker,Bold Ruler,Buckpasser,Raise a Native,Nantallah,Riverman,Northern Dancer,eefe,YIrj
@@ -92,10 +92,10 @@
 Ï³İÄÎŞØ­°Ñ,Ú¯ÄŞºŞ¯ÄŞ,0,50,58,Mt. Livermore,Blushing Groom,Alydar,Red God,Crimson Satan,Raise a Native,Vice Regent,Nasrullah,Wild Risk,Spy Song,Reneged,Native Dancer,On-And-On,Northern Dancer,Quadrangle,bieg,YIrj
 ´¸Ø­,ÊİÌßÄİ,0,42,66,Acatenango,Surumu,The Minstrel,Literat,Aggressor,Northern Dancer,À¯Ìßµİ³¯ÄŞ,Birkhahn,Reliance,Combat,Mr Jinks,Nearctic,Victoria Park,Sallust,Prince Tenderfoot,ejej,YIrj
 Ëßİ¸ÊßÌ­°Ñ,Í²ÙÄ©Ø°½Şİ,0,62,44,»İÃŞ°»²Úİ½,Halo,Secretariat,Hail to Reason,Understanding,Bold Ruler,Nervous Energy,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Nasrullah,Princequillo,Roman Line,Father John,eeee,YIrj
-ËßºËßºÏ°Á*,Í²ÙÄ©Ø°½Şİ,0,60,46,±ÄŞÏ²ÔÍŞ¶Ş,»İÃŞ°»²Úİ½,Topsider,Halo,ÄÆ°ËŞİ,Northern Dancer,Sir Gaylord,Hail to Reason,Understanding,¶İÊß×,Northern Dancer,Nearctic,Round Table,Turn-to,Jet Pilot,eeee,YIrj
+ÌÛØµ¸Ş×Ì¨°,Í²ÙÄ©Ø°½Şİ,0,60,46,±ÄŞÏ²ÔÍŞ¶Ş,»İÃŞ°»²Úİ½,Topsider,Halo,ÄÆ°ËŞİ,Northern Dancer,Sir Gaylord,Hail to Reason,Understanding,¶İÊß×,Northern Dancer,Nearctic,Round Table,Turn-to,Jet Pilot,eeee,YIrj
 º°ÙÃİÀ²Ñ½Ş,Ú²½Ş±È²Ã¨³Ş,0,58,48,Gone West,Mr.Prospector,Slewpy,Raise a Native,Secretariat,Seattle Slew,Verbatim,Native Dancer,Nashua,Bold Ruler,Tim Tam,Bold Reasoning,Prince John,Speak John,One for All,feek,YIrj
 ¸×¼¯¸½Ã¯Ìß,ËÑÔ°,0,56,50,Broad Brush,Ack Ack,Valid Appeal,Battle Joined,Hoist the Flag,In Reality,Secretariat,Armageddon,Turn-to,Tom Rolfe,Turn-to,Intentionally,Moslem Chief,Bold Ruler,Hail to Reason,lkce,YIrj
-±¼İÒÄØ°*,Ì«ÙÃ¨É,0,54,52,Tejano Run,Tejano,Lord Gaylord,Caro,Wavering Monarch,Sir Gaylord,Sauce Boat,Ì«ÙÃ¨É,Exclusive Native,Majestic Light,Green Dancer,Turn-to,Ambiorix,Key to the Mint,Barbizon,efek,YIrj
+ÜİÎß²İÄÏ°¸,Ì«ÙÃ¨É,0,54,52,Tejano Run,Tejano,Lord Gaylord,Caro,Wavering Monarch,Sir Gaylord,Sauce Boat,Ì«ÙÃ¨É,Exclusive Native,Majestic Light,Green Dancer,Turn-to,Ambiorix,Key to the Mint,Barbizon,efek,YIrj
 »Ï°Ëß¸Æ¯¸,Ú²½Ş±È²Ã¨³Ş,0,52,54,´ÙºİÄŞÙÊß»°,Kingmambo,Fabulous Dancer,Mr.Prospector,Sadler's Wells,Northern Dancer,Kaldoun,Raise a Native,Nureyev,Northern Dancer,Seattle Slew,Nearctic,The Axe,Caro,Carvin,feee,YIrj
 ²×İ²×İ,Ì§²İÄ¯Ìß,0,50,56,ÅØÀÄ¯ÌßÛ°ÄŞ,»¯¶°ÎŞ°²,Baldski,ÃŞ¨¸À½,Affirmed,Nijinsky,Argument,Sanctus,É°»ŞİÃ°½Ä,Exclusive Native,Never Bend,Northern Dancer,Bald Eagle,Kautokeino,Round Table,bfej,YIrj
 ½ÄÛÍŞØ°Ü²İ,ÎŞ°ÙÄŞÙ°×°,0,48,58,¼Ş¬¯¼Ş±İ¼ŞªÙ°Á,Honest Pleasure,Pleasant Colony,What a Pleasure,Victoria Park,His Majesty,Full Pocket,Bold Ruler,Tulyar,Chop Chop,Stratus,Ribot,Sunrise Flight,Olden Times,Bagdad,ejkc,YIrj
@@ -110,22 +110,22 @@
 ±İÁ´²Ø±½,Æ±°¸Ã¨¯¸,0,58,44,Wild Again,Icecapade,Private Account,Nearctic,Khaled,Damascus,Tom Rolfe,Nearco,Native Dancer,Hyperion,Dante,Sword Dancer,Buckpasser,Ribot,Dark Star,ebjk,YIrj
 Êß²Å¯ÌßÙÌßØİ,Í²ÙÄ©Ø°½Şİ,0,56,46,ÀÔ½ÂÖ¼,»İÃŞ°»²Úİ½,É°»ŞİÃ°½Ä,Halo,Caro,Northern Dancer,Ë¯Ã¨İ¸Ş±³ª°,Hail to Reason,Understanding,Ì«ÙÃ¨É,Buckpasser,Nearctic,Victoria Park,Ambiorix,Determine,eeem,YIrj
 ¾¶İÄŞµËßÆµİ,Ú²½Ş±È²Ã¨³Ş,0,54,48,±ÙÑÀÜ¹Ù,Machiavellian,Northern Park,Mr.Prospector,Green Desert,Northern Dancer,Habitat,Raise a Native,Halo,Danzig,Ela-Mana-Mou,Nearctic,Great Nephew,Sir Gaylord,Red God,feee,YIrj
-»Ï°ÊÚ°¼®İ*,Í²ÙÄ©Ø°½Şİ,0,52,50,»İÃŞ°»²Úİ½,Halo,Risen Star,Hail to Reason,Understanding,Secretariat,Nureyev,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Bold Ruler,His Majesty,Northern Dancer,What a Pleasure,ejee,YIrj
+Ì¨¯ÄÚµÀ°ÄŞ,Í²ÙÄ©Ø°½Şİ,0,52,50,»İÃŞ°»²Úİ½,Halo,Risen Star,Hail to Reason,Understanding,Secretariat,Nureyev,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Bold Ruler,His Majesty,Northern Dancer,What a Pleasure,ejee,YIrj
 ³°ÏİÎŞ°¶Ù,Ú²½Ş±È²Ã¨³Ş,0,50,52,Kingmambo,Mr.Prospector,A.P. Indy,Raise a Native,Nureyev,Seattle Slew,King's Bishop,Native Dancer,Nashua,Northern Dancer,Prove Out,Bold Reasoning,Secretariat,Round Table,The Axe,feek,YIrj
 »²İÌßÚ°Ä,È³Ş§°ÍŞİÄŞ,0,48,54,¸Ø´²À°,Mill Reef,Be My Guest,Never Bend,Habitat,Northern Dancer,Busted,Nasrullah,Princequillo,Sir Gaylord,Kythnos,Nearctic,Tudor Minstrel,Crepello,Queen's Hussar,eeei,YIrj
 Êß°Ìª¸¼®İ,É°»ŞİÀŞİ»°,0,46,58,×ÑÀ×,Nijinsky,L'Emigrant,Northern Dancer,Blushing Groom,The Minstrel,Brigadier Gerard,Nearctic,Bull Page,Red God,Snow Knight,Northern Dancer,Vaguely Noble,Queen's Hussar,Nasram,eeeg,YIrj
-Ó±±Á°ÌŞÒİÄ*,Ú¯ÄŞºŞ¯ÄŞ,0,44,60,Cherokee Run,Runaway Groom,Unbridled,Blushing Groom,Silver Saber,Fappiano,Bold Forbes,Red God,Call the Witness,Drone,Francis S.,Mr.Prospector,Le Fabuleux,Irish Castle,Sword Dancer,eefe,YIrj
+µ¸×ÎÏĞ·»°,Ú¯ÄŞºŞ¯ÄŞ,0,44,60,Cherokee Run,Runaway Groom,Unbridled,Blushing Groom,Silver Saber,Fappiano,Bold Forbes,Red God,Call the Witness,Drone,Francis S.,Mr.Prospector,Le Fabuleux,Irish Castle,Sword Dancer,eefe,YIrj
 ¶ÙÁ®º¯Ä,Ì§²İÄ¯Ìß,0,42,60,»¯¶°ÎŞ°²,ÃŞ¨¸À½,ÌŞ×²±İ½ŞÀ²Ñ,Sanctus,É°»ŞİÃ°½Ä,Roberto,¼Ş®İÃ¨µİÌŞÙ,Fine Top,Worden,Northern Dancer,Princely Gift,Hail to Reason,Graustark,No Mercy,³ŞªİÁ±,beee,YIrj
 ÜİÀ²ÑÒÓØ°,Ú²½Ş±È²Ã¨³Ş,0,62,38,Souvenir Copy,Mr.Prospector,Alleged,Raise a Native,Nureyev,Hoist the Flag,Seattle Slew,Native Dancer,Nashua,Northern Dancer,Stop the Music,Tom Rolfe,Prince John,Bold Reasoning,Northern Dancer,feke,YIrj
 ±²½È¸ÀØİ,»İ²İÛ°,0,60,40,±²È½Ì³¼Şİ,¼°Î°¸,×¯·°¿ÌŞØİ,Herbager,Ã½ºÎŞ°²,Nijinsky,Tropique,Vandale,Free Man,Princely Gift,ÓİÀ³Ş§Ù,Northern Dancer,Pardao,Fontenay,Niccolo Dell'Arca,beem,YIrj
 ËÒÉË°Ä±¯Ìß,ÌßØİ½Ø°·ŞÌÄ,0,58,42,»¸×ÊŞ¸¼İµ°,»¸×ÕÀ¶µ°,ÊÊŞ¯Ä,Ã½ºÎŞ°²,É°»ŞİÃ°½Ä,Habitat,»İ¼°,Princely Gift,È³Ş§°ËŞ°Ä,Northern Dancer,Ambiopoise,Sir Gaylord,Sunny Boy,Sanctus,È³Ş§°ËŞ°Ä,eeeb,YIrj
 Ú¯ÄŞÊßİÀÛİ,Ú¯ÄŞºŞ¯ÄŞ,0,56,44,±°Ğ¼Ş¬°,Rainbow Quest,Lyphard,Blushing Groom,Northern Dancer,Northern Dancer,Buckpasser,Red God,Herbager,Nearctic,Buckpasser,Nearctic,Court Martial,Tom Fool,Outing Class,eeeh,YIrj
-ÌÕÉ´Ù½·°*,Í²ÙÄ©Ø°½Şİ,0,54,46,Dynaformer,Roberto,Danzig,Hail to Reason,His Majesty,Northern Dancer,Sir Gaylord,Turn-to,Nashua,Ribot,Olympia,Nearctic,Admiral's Voyage,Turn-to,Bold Lad,ekee,YIrj
+¶ŞİÊß³ÀŞ°¾Ş×Áİ,Í²ÙÄ©Ø°½Şİ,0,54,46,Dynaformer,Roberto,Danzig,Hail to Reason,His Majesty,Northern Dancer,Sir Gaylord,Turn-to,Nashua,Ribot,Olympia,Nearctic,Admiral's Voyage,Turn-to,Bold Lad,ekee,YIrj
 Ëß°Á¼¬°ÍŞ¯Ä,É°»ŞİÀŞİ»°,0,52,48,±»Ã¨½,Topsider,¶Â×·Ş´°½,Northern Dancer,Graustark,ÎŞ²½Ş¨°ÎŞ°²,Á¬²ÅÛ¯¸,Nearctic,Round Table,Ribot,Buckpasser,King's Troop,³ŞªİÁ±,Rockefella,ËİÄŞ½Àİ,ekeb,YIrj
-Ö²ÉÕ·ÔÅ·Ş*,É°»ŞİÀŞİ»°,0,48,52,ÀŞ²Å¶ŞØÊŞ°,É°»ŞİÃ°½Ä,Ä×²ÊŞÙÁ°Ì,Northern Dancer,ÊŞ³İÃ¨±½,Princely Gift,Ì§×ÓİÄŞ,Nearctic,Victoria Park,Rockefella,Correlation,Nasrullah,Petition,Sicambre,×²¼Şİ¸ŞÌÚ°Ñ,ebek,YIrj
+¶ÚİÄÄŞ×²ÌŞ,É°»ŞİÀŞİ»°,0,48,52,ÀŞ²Å¶ŞØÊŞ°,É°»ŞİÃ°½Ä,Ä×²ÊŞÙÁ°Ì,Northern Dancer,ÊŞ³İÃ¨±½,Princely Gift,Ì§×ÓİÄŞ,Nearctic,Victoria Park,Rockefella,Correlation,Nasrullah,Petition,Sicambre,×²¼Şİ¸ŞÌÚ°Ñ,ebek,YIrj
 ±°ÄÌÙÌßÛ¯Ä,È³Ş§°ÍŞİÄŞ,0,46,54,ÌŞÚ²³Şª½ÄÛ°Ïİ,Never Bend,Ğ½À°¼°ËŞ°,Nasrullah,Roman,Ä³¼®³ÎŞ°²,ÊŞ°ÊŞ°,Nearco,Djeddah,Sir Gallahad,Sun Again,Ã½ºÎŞ°²,ÄËßµ,Princely Gift,Êß°¿Ûİ,ejee,YIrj
 ÍßİÛ°½ŞÀ²Ù,Í²ÙÄ©Ø°½Şİ,0,44,56,Kris S.,Roberto,Ì«°Ã¨Å²Å°,Hail to Reason,Princequillo,Mr.Prospector,Never Bend,Turn-to,Nashua,Prince Rose,Occupy,Raise a Native,Tom Rolfe,Nasrullah,War Admiral,ekfe,YIrj
-´İ¼ŞªÙ¼ªØ°*,¸×Øµİ,0,42,58,ÄŞ¸À°ÃŞ³Ş¨±½,Ahonoora,Nureyev,Lorenzaccio,Alleged,Northern Dancer,What a Pleasure,Klairon,Martial,Hoist the Flag,Northern Dancer,Nearctic,Forli,Bold Ruler,Royal Union,mkee,YIrj
+Ï°Ò²ÄŞÊ°Ìß,¸×Øµİ,0,42,58,ÄŞ¸À°ÃŞ³Ş¨±½,Ahonoora,Nureyev,Lorenzaccio,Alleged,Northern Dancer,What a Pleasure,Klairon,Martial,Hoist the Flag,Northern Dancer,Nearctic,Forli,Bold Ruler,Royal Union,mkee,YIrj
 ÊŞ°ÎŞİÊŞÆ×,Ú²½Ş±È²Ã¨³Ş,0,58,40,½·¬İ,Mr.Prospector,×¼±İÙ°ÌŞÙ,Raise a Native,Nijinsky,Nijinsky,Ä³¼®³ÎŞ°²,Native Dancer,Nashua,Northern Dancer,Round Table,Northern Dancer,Buckpasser,Ã½ºÎŞ°²,¿ÛÅ³ª°,feee,YIrj
 ³²İÄŞÌ§¸À°,ÊËŞÀ¯Ä,0,56,42,ÆÎİËßÛ³²Å°,½Ã¨°ÙÊ°Ä,É°»ŞİÃ°½Ä,Habitat,Á¬²ÅÛ¯¸,Northern Dancer,Cipol,Sir Gaylord,Abernant,Rockefella,×²¼Şİ¸ŞÌÚ°Ñ,Nearctic,Victoria Park,´Ù¾İÀ³Û,Court Harwell,ebeg,YIrj
 ·¬¯ÄÀŞİ¼İ¸Ş,É°»ŞİÀŞİ»°,0,54,44,Mountain Cat,Storm Cat,Devil's Bag,Storm Bird,Key to the Mint,Halo,Silver Series,Northern Dancer,Secretariat,Graustark,Never Bend,Hail to Reason,Herbager,Chieftain,Princequillo,ekee,YIrj
@@ -142,25 +142,25 @@
 ´³ÛÊß,ØÎŞ°,0,52,44,Roanoke,Pleasant Colony,Dixieland Band,His Majesty,Sea-Bird,Northern Dancer,Promised Land,Ribot,Sunrise Flight,Dan Cupid,Cornish Prince,Nearctic,Delta Judge,Palestinian,King Dorsett,kfej,YIrj
 ÃŞÎŞ×½Ş¼½À°,Ú²½Ş±È²Ã¨³Ş,0,50,46,Ì«°Ã¨Å²Å°,Mr.Prospector,Affirmed,Raise a Native,Tom Rolfe,Exclusive Native,Never Bend,Native Dancer,Nashua,Ribot,Double Jay,Raise a Native,Crafty Admiral,Nasrullah,Double Jay,fkfe,YIrj
 ×İÊŞÀŞ,É°»ŞİÀŞİ»°,0,46,50,Linamix,ÒİÃŞ½,Kingmambo,ÍŞØÌ§,Breton,Mr.Prospector,Kris,Lyphard,Caro,Relko,Alcide,Raise a Native,Nureyev,Sharpen Up,Caro,ejff,YIrj
-Ò²¸·¬×ÒÙ*,ÎŞ°ÙÄŞÙ°×°,0,44,52,Avenue of Flags,Seattle Slew,Youth,Bold Reasoning,Pass the Glass,Ack Ack,Northern Dancer,Boldnesian,Poker,Buckpasser,Bold Bidder,Battle Joined,Dark Star,Nearctic,Eight Thirty,ehle,YIrj
+µÈ½ÄØ°×³Ş,ÎŞ°ÙÄŞÙ°×°,0,44,52,Avenue of Flags,Seattle Slew,Youth,Bold Reasoning,Pass the Glass,Ack Ack,Northern Dancer,Boldnesian,Poker,Buckpasser,Bold Bidder,Battle Joined,Dark Star,Nearctic,Eight Thirty,ehle,YIrj
 ××¼¬²İ,É°»ŞİÀŞİ»°,0,42,54,ºÏİÀŞ°²İÁ°Ì,ÀŞİ¼İ¸ŞÌŞÚ°³Ş,»İ¼¬²İÎŞ°²,Lyphard,Roberto,Ã½ºÎŞ°²,¼ÙÊŞ°¼¬°¸,Northern Dancer,Drone,Hail to Reason,Raise a Native,Princely Gift,Airborne,Buisson Ardent,È³Ş§°ËŞ°Ä,eeec,YIrj
 µÂÎŞÈ,É°»ŞİÀŞİ»°,0,40,56,±İÊŞ°¼¬ÀŞ²,É°»ŞİÃ°½Ä,Dominion,Northern Dancer,Ambiopoise,Derring-Do,Blakeney,Nearctic,Victoria Park,Ambiorix,Gallant Man,Darius,Princely Gift,Hethersett,March Past,emdm,YIrj
-º²ÉÜÙÂ*,É°»ŞİÀŞİ»°,0,56,38,ÍÈ¼°,Storm Cat,Kirtling,Storm Bird,Hawaii,¸Ş×İÃŞ¨,Crimson Satan,Northern Dancer,Secretariat,Utrillo,Tom Cat,Great Nephew,Nijinsky,Spy Song,Kentucky Pride,edgl,YIrj
+¼¬ÄŞ³·Ã¨,É°»ŞİÀŞİ»°,0,56,38,ÍÈ¼°,Storm Cat,Kirtling,Storm Bird,Hawaii,¸Ş×İÃŞ¨,Crimson Satan,Northern Dancer,Secretariat,Utrillo,Tom Cat,Great Nephew,Nijinsky,Spy Song,Kentucky Pride,edgl,YIrj
 ¶Ş°Ù²İÌŞÙ°,Í²ÙÄ©Ø°½Şİ,0,54,40,»İÃŞ°»²Úİ½,Halo,¼İÎŞØÙÄŞÙÌ,Hail to Reason,Understanding,Êß°¿Ûİ,È³Ş§°ËŞ°Ä,Turn-to,Cosmic Bomb,Promised Land,Montparnasse,Milesian,½Ëß°ÄŞ¼İÎŞØ,Never Say Die,Á¬²ÅÛ¯¸,ejme,YIrj
 ±Ù¶ØİÊŞÃŞ¨,Ú²½Ş±È²Ã¨³Ş,0,53,41,Mr. Greeley,Gone West,Slew o' Gold,Mr.Prospector,Reviewer,Seattle Slew,Northern Dancer,Raise a Native,Secretariat,Bold Ruler,ÀŞİ»°½Ş²Ò°¼Ş,Bold Reasoning,Buckpasser,Nearctic,Rough'n Tumble,feee,YIrj
 ÊÆ°ÊŞİÀŞÑ,É°»ŞİÀŞİ»°,0,52,42,¾ŞÈ×Ø½Ä,ÃŞ²İËÙ,Be My Guest,Danzig,Conquistador Cielo,Northern Dancer,Riverman,Northern Dancer,His Majesty,Mr.Prospector,Hoist the Flag,Nearctic,Tudor Minstrel,Never Bend,Great Nephew,efee,YIrj
-½ÌßØ³ÑÏØ°*,Í²ÙÄ©Ø°½Şİ,0,50,44,Cure the Blues,Stop the Music,Seattle Slew,Hail to Reason,Dr. Fager,Bold Reasoning,Prince John,Turn-to,Tom Fool,Rough'n Tumble,Bold Ruler,Boldnesian,Poker,Princequillo,Nashua,elek,YIrj
-Ä×²Ìß¯¼­*,Ú²½Ş±È²Ã¨³Ş,0,48,46,ºÛÅÄŞ½Ş¸´½Ä,Ì«°Ã¨Å²Å°,Lord at War,Mr.Prospector,Damascus,General,Verbatim,Raise a Native,Tom Rolfe,Sword Dancer,Bold Ruler,Brigadier Gerard,Con Brio,Speak John,Fleet Nasrullah,fjgk,YIrj
+½Íß°½·°Êß°,Í²ÙÄ©Ø°½Şİ,0,50,44,Cure the Blues,Stop the Music,Seattle Slew,Hail to Reason,Dr. Fager,Bold Reasoning,Prince John,Turn-to,Tom Fool,Rough'n Tumble,Bold Ruler,Boldnesian,Poker,Princequillo,Nashua,elek,YIrj
+´İÄŞÚ½ÍŞ¯Ä,Ú²½Ş±È²Ã¨³Ş,0,48,46,ºÛÅÄŞ½Ş¸´½Ä,Ì«°Ã¨Å²Å°,Lord at War,Mr.Prospector,Damascus,General,Verbatim,Raise a Native,Tom Rolfe,Sword Dancer,Bold Ruler,Brigadier Gerard,Con Brio,Speak John,Fleet Nasrullah,fjgk,YIrj
 ÒÀØ¯¸ËŞ½Áª,¾ŞÀŞ°İ,0,46,48,ÄÆ°ËŞİ,¶İÊß×,ÆÎİËßÛ³²Å°,Kalamoun,Hornbeam,½Ã¨°ÙÊ°Ä,É°»ŞİÃ°½Ä,¾ŞÀŞ°İ,µİØ°Ì«±×²Ì,Hyperion,Preciptic,Habitat,Á¬²ÅÛ¯¸,Northern Dancer,Hawaii,ebee,YIrj
-¸Ø±Ì«Ú½Ä*,Í²ÙÄ©Ø°½Şİ,0,44,50,¼ŞªÆ­²İ,»İÃŞ°»²Úİ½,ÄÆ°ËŞİ,Halo,What Luck,¶İÊß×,Û²ÔÙ½·°,Hail to Reason,Understanding,Bold Ruler,Tentam,Kalamoun,Hornbeam,Raja Baba,ËİÄŞ½Àİ,eeee,YIrj
+ÄÏÄËß­°Ú,Í²ÙÄ©Ø°½Şİ,0,44,50,¼ŞªÆ­²İ,»İÃŞ°»²Úİ½,ÄÆ°ËŞİ,Halo,What Luck,¶İÊß×,Û²ÔÙ½·°,Hail to Reason,Understanding,Bold Ruler,Tentam,Kalamoun,Hornbeam,Raja Baba,ËİÄŞ½Àİ,eeee,YIrj
 ×¼Ş®ºİÀŞ,ÌŞ×İÄŞÌ«°ÄŞ,0,42,52,Monsun,Konigsstuhl,Salse,Dschingis Khan,Surumu,Topsider,Mill Reef,Tamerlane,Tiepoletto,Literat,Authi,Northern Dancer,Prince John,Never Bend,Prince Ippi,ibee,YIrj
-Èµ²İÊßÙ½*,É°»ŞİÀŞİ»°,0,40,54,ºÏİÀŞ°²İÁ°Ì,ÀŞİ¼İ¸ŞÌŞÚ°³Ş,Machiavellian,Lyphard,Roberto,Mr.Prospector,Lomond,Northern Dancer,Drone,Hail to Reason,Raise a Native,Raise a Native,Halo,Northern Dancer,Djakao,eefe,YIrj
+×ÌŞÚ¸Á¬°,É°»ŞİÀŞİ»°,0,40,54,ºÏİÀŞ°²İÁ°Ì,ÀŞİ¼İ¸ŞÌŞÚ°³Ş,Machiavellian,Lyphard,Roberto,Mr.Prospector,Lomond,Northern Dancer,Drone,Hail to Reason,Raise a Native,Raise a Native,Halo,Northern Dancer,Djakao,eefe,YIrj
 ½ÃÃŞ¨°±¹Ş²İ,Ú²½Ş±È²Ã¨³Ş,0,54,38,Unbridled's Song,Unbridled,Slew o' Gold,Fappiano,Caro,Seattle Slew,Storm Bird,Mr.Prospector,Le Fabuleux,Ì«ÙÃ¨É,Lucky Mel,Bold Reasoning,Buckpasser,Northern Dancer,Nasomo,feee,YIrj
 ÒØ°±İ,Ú²½Ş±È²Ã¨³Ş,0,52,40,´İÄŞ½³¨°Ìß,Ì«°Ã¨Å²Å°,»İÃŞ°»²Úİ½,Mr.Prospector,Dance Spell,Halo,Sadler's Wells,Raise a Native,Tom Rolfe,Northern Dancer,Thinking Cap,Hail to Reason,Understanding,Northern Dancer,²İ¸ŞØ¯¼­ÌßØİ½,feee,YIrj
-»Ù»×¯Ã*,Í²ÙÄ©Ø°½Şİ,0,50,42,Devil's Bag,Halo,D'Accord,Hail to Reason,Herbager,Secretariat,Mr. Leader,Turn-to,Cosmic Bomb,Vandale,Cohoes,Bold Ruler,Northern Dancer,Hail to Reason,Warfare,ebee,YIrj
+½°Êß°½¶³Ä,Í²ÙÄ©Ø°½Şİ,0,50,42,Devil's Bag,Halo,D'Accord,Hail to Reason,Herbager,Secretariat,Mr. Leader,Turn-to,Cosmic Bomb,Vandale,Cohoes,Bold Ruler,Northern Dancer,Hail to Reason,Warfare,ebee,YIrj
 ¸×ÊŞ¯Ä,ÎŞ°ÙÄŞÙ°×°,0,48,44,Capote,Seattle Slew,Fabulous Dancer,Bold Reasoning,Bald Eagle,Northern Dancer,Saint Cyrien,Boldnesian,Poker,Nasrullah,Dark Star,Nearctic,The Axe,Luthier,ÎŞ°ÙÄŞ×ÂÄŞ,eeem,YIrj
 Ê°Ã¨Êß°Ã¨,É°»ŞİÀŞİ»°,0,44,48,ÊßİÄÚ¾ÚÌŞÙ,Nureyev,Bering,Northern Dancer,Alydar,Arctic Tern,Sadler's Wells,Nearctic,Forli,Raise a Native,Habitat,Sea-Bird,Lyphard,Northern Dancer,Caro,effe,YIrj
-ÌÚ¯¼­¼®¯Ä*,Ú¯ÄŞºŞ¯ÄŞ,0,42,50,Rahy,Blushing Groom,Seattle Slew,Red God,Halo,Bold Reasoning,Graustark,Nasrullah,Wild Risk,Hail to Reason,Herbager,Boldnesian,Poker,Ribot,Hasty Road,eeek,YIrj
+±¼ÀÏÆ±°Å,Ú¯ÄŞºŞ¯ÄŞ,0,42,50,Rahy,Blushing Groom,Seattle Slew,Red God,Halo,Bold Reasoning,Graustark,Nasrullah,Wild Risk,Hail to Reason,Herbager,Boldnesian,Poker,Ribot,Hasty Road,eeek,YIrj
 ·¾·É·½ŞÅ,Í²ÙÄ©Ø°½Şİ,0,54,36,Ì¼Ş·¾·,»İÃŞ°»²Úİ½,Mr.Prospector,Halo,Le Fabuleux,Raise a Native,Roi Dagobert,Hail to Reason,Understanding,Wild Risk,In Reality,Native Dancer,Nashua,Sicambre,Spy Song,ekfk,YIrj
 ËŞ±İ¶ØÎŞİ,Ú²½Ş±È²Ã¨³Ş,0,52,38,Ğ¼Ù,Miswaki,Êß°¸Ø°¼ŞªİÄ,Mr.Prospector,The Axe,Vice Regent,Ä³¼®³ÎŞ°²,Raise a Native,Buckpasser,Mahmoud,Bold Lad,Northern Dancer,Victoria Park,Ã½ºÎŞ°²,Never Say Die,fiee,YIrj
 ·Ï¸ŞÚËŞ°Å½,ÌßØİ½Ø°·ŞÌÄ,0,50,40,»¸×ÕÀ¶µ°,Ã½ºÎŞ°²,É°»ŞİÃ°½Ä,Princely Gift,È³Ş§°ËŞ°Ä,Northern Dancer,Chieftain,Nasrullah,Hyperion,Never Say Die,Õ±Ê²È½,Nearctic,Victoria Park,Bold Ruler,Swaps,eeee,YIrj
@@ -175,15 +175,15 @@
 ÁªÙ¼°,É°»ŞİÀŞİ»°,0,50,38,ÀÊŞ½º·¬¯Ä,Storm Cat,Seeking the Gold,Storm Bird,Sauce Boat,Mr.Prospector,Nureyev,Northern Dancer,Secretariat,Key to the Mint,Barbizon,Raise a Native,Buckpasser,Northern Dancer,His Majesty,ekfe,YIrj
 ÌŞ×¯¸ØÎŞİ,Û²ÔÙÁ¬°¼Ş¬°,0,48,40,Out of Place,Cox's Ridge,Star de Naskra,Best Turn,Damascus,Naskra,Cornish Prince,Turn-to,Ballydonnell,Sword Dancer,Buckpasser,Nasram,Clandestine,Bold Ruler,War Admiral,ejee,YIrj
 ¼±ÄÙÚ²İ,Í²ÙÄ©Ø°½Şİ,0,46,42,ÌŞ×²±İ½ŞÀ²Ñ,Roberto,ÀÏÓ¸Û½,Hail to Reason,Graustark,¼°ËŞ°¸Û½,É°»ŞİÃ°½Ä,Turn-to,Nashua,Ribot,Hasty Road,Ì«ÙÃ¨É,¼¬Ä°¹Ş²,Northern Dancer,Ú±Ø°Ø°¶ŞÙ,ekee,YIrj
-ÌßØÌßØÃ¨Ã¨*,Ú²½Ş±È²Ã¨³Ş,0,42,46,Unbridled's Song,Unbridled,General Meeting,Fappiano,Caro,Seattle Slew,Riverman,Mr.Prospector,Le Fabuleux,Ì«ÙÃ¨É,Lucky Mel,Bold Reasoning,Alydar,Never Bend,Pia Star,feee,YIrj
+ÎßÌßØİ,Ú²½Ş±È²Ã¨³Ş,0,42,46,Unbridled's Song,Unbridled,General Meeting,Fappiano,Caro,Seattle Slew,Riverman,Mr.Prospector,Le Fabuleux,Ì«ÙÃ¨É,Lucky Mel,Bold Reasoning,Alydar,Never Bend,Pia Star,feee,YIrj
 ¿°¼¬ÙÒÃŞ¨±,Ú²½Ş±È²Ã¨³Ş,0,40,48,Zafonic,Gone West,Sadler's Wells,Mr.Prospector,The Minstrel,Northern Dancer,Ela-Mana-Mou,Raise a Native,Secretariat,Northern Dancer,Right Tack,Nearctic,Bold Reason,Ëß¯Ä¶°İ,Welsh Pageant,feeg,YIrj
-Ü°ÙÄŞÀ²Ñ½*,ÌŞÚÆÑ,0,38,50,Mtoto,Busted,Habitat,Crepello,Ğİ¼µ,Sir Gaylord,Kashmir,Donatello,³Ş¨Ğ°,Relic,Alycidon,Turn-to,Occupy,Tudor Melody,Prince Taj,iceb,YIrj
+ÙÙ°ÌŞ,ÌŞÚÆÑ,0,38,50,Mtoto,Busted,Habitat,Crepello,Ğİ¼µ,Sir Gaylord,Kashmir,Donatello,³Ş¨Ğ°,Relic,Alycidon,Turn-to,Occupy,Tudor Melody,Prince Taj,iceb,YIrj
 ºİ¶Ş×¶Ş°Ù,Ì«ÙÃ¨É,0,50,36,½À°µÌŞº¼Ş°İ,Cozzene,É°»ŞØ°,Caro,Pia Star,Northern Dancer,Ã½ºÎŞ°²,Ì«ÙÃ¨É,Prince John,Olympia,Fleet Nasrullah,Nearctic,Amerigo,Princely Gift,ÓİÀ³Ş§Ù,ebee,YIrj
 ¼Ù¸Êß¼Ş¬Ï,´Àİ,0,48,38,Selkirk,Sharpen Up,Caerleon,´Àİ,Nebbiolo,Nijinsky,Sagace,Native Dancer,Rockefella,²´Û°ºŞ¯ÄŞ,Be Friendly,Northern Dancer,Round Table,Luthier,Irish River,feem,YIrj
 ¼®º×Ã,Ê²ÍßØµİ,0,46,40,Efisio,Formidable,Goldneyev,Forli,High Top,Nureyev,Pharly,Aristophanes,Raise a Native,Derring-Do,Ragusa,Northern Dancer,Riverman,Lyphard,Relic,bdee,YIrj
 ¸×²İÎŞÄÙ,É°»ŞİÀŞİ»°,0,44,42,ÀŞİ½µÌŞ×²Ì,Nijinsky,Green Forest,Northern Dancer,In Reality,Shecky Greene,Known Fact,Nearctic,Bull Page,Intentionally,First Landing,Noholme,The Axe,In Reality,Nearctic,ecbc,YIrj
 ¼Ş°İ½ŞÌŞÙ°½,ØÎŞ°,0,42,44,±ÚĞÛ°ÄŞ,Tom Rolfe,ºØÑ½·°,Ribot,Bold Reasoning,Northern Dancer,Êß°¿Ûİ,Tenerani,Roman,Boldnesian,Pappa Fourway,Nearctic,Francis S.,Milesian,Nashua,keem,YIrj
-¸Ş×½¸ŞÛ½*,È³Ş§°ÍŞİÄŞ,0,40,46,Dashing Blade,Elegant Air,ÀŞİ¼İ¸ŞÌŞÚ°³Ş,Shirley Heights,Sharpen Up,Lyphard,Surumu,Mill Reef,Sea-Bird,´Àİ,Tropique,Northern Dancer,Drone,Literat,Luciano,efeb,YIrj
+·¯Á­,È³Ş§°ÍŞİÄŞ,0,40,46,Dashing Blade,Elegant Air,ÀŞİ¼İ¸ŞÌŞÚ°³Ş,Shirley Heights,Sharpen Up,Lyphard,Surumu,Mill Reef,Sea-Bird,´Àİ,Tropique,Northern Dancer,Drone,Literat,Luciano,efeb,YIrj
 ¸²°İ´Ò×ÙÄŞ,É°»ŞİÀŞİ»°,0,38,48,¼İ¸Ş½Ëß°Ù,In the Wings,¼¬°ÃŞ¨°,Sadler's Wells,Halo,Danzig,Relkino,Northern Dancer,Shirley Heights,Hail to Reason,Herbager,Northern Dancer,Hoist the Flag,Relko,Balidar,eeei,YIrj
 ±ÊßÚÙÜ°ÙÄŞ,É°»ŞİÀŞİ»°,0,36,50,ÀŞ²ÅÚÀ°,É°»ŞİÃ°½Ä,ÏÙ¾Şİ½·°,Northern Dancer,Arts and Letters,Nijinsky,Delta Judge,Nearctic,Victoria Park,Ribot,Forli,Northern Dancer,Buckpasser,Traffic Judge,Djeddah,ekeb,YIrj
 Äİ¶ŞØÑ½Ò,Í²ÙÄ©Ø°½Şİ,0,48,36,Silver Hawk,Roberto,Storm Cat,Hail to Reason,Amerigo,Storm Bird,Sauce Boat,Turn-to,Nashua,Nearco,Mat de Cocagne,Northern Dancer,Secretariat,Key to the Mint,Great Sun,edek,YIrj
@@ -210,57 +210,57 @@
 ÊŞ°Á¬ÙØ±ØÃ¨,Ú¯ÄŞºŞ¯ÄŞ,0,36,44,Nashwan,Blushing Groom,Irish River,Red God,Bustino,Riverman,Shoemaker,Nasrullah,Wild Risk,Busted,Queen's Hussar,Never Bend,Klairon,¾İÄ¸Ú½Ëßİ,Darius,eieb,YIrj
 ×³ŞµİĞ°,É°»ŞİÀŞİ»°,0,34,46,µ°½,Fairy King,Caerleon,Northern Dancer,Troy,Nijinsky,Luthier,Nearctic,Bold Reason,Petingo,Alcide,Northern Dancer,Round Table,Klairon,Êß°¼±,egem,YIrj
 ½½Ş±¶È,É°»ŞİÀŞİ»°,0,32,48,ÍßİÀ²±,Be My Guest,»¸×¼®³Ø,Northern Dancer,Mill Reef,Êß°¿Ûİ,ÃŞ¨ÊŞ²İ·ŞÌÄ,Nearctic,Tudor Minstrel,Never Bend,Blakeney,Milesian,Ì«ÙÃ¨É,Princely Gift,·İ¸Ş½ÍŞİÁ,eeme,YIrj
-¸²İ±×ÍŞÙÄ*,É°»ŞİÀŞİ»°,0,46,32,±¸ŞÈ½Ü°ÙÄŞ,Danzig,Ø±Ù¼¬ÀŞ²,Northern Dancer,Seattle Slew,Roberto,Gulch,Nearctic,Admiral's Voyage,Bold Reasoning,Lyphard,Hail to Reason,In Reality,Mr.Prospector,Clever Trick,eeef,YIrj
+ÌÙ°ÂÄ¯Ëßİ¸Ş,É°»ŞİÀŞİ»°,0,46,32,±¸ŞÈ½Ü°ÙÄŞ,Danzig,Ø±Ù¼¬ÀŞ²,Northern Dancer,Seattle Slew,Roberto,Gulch,Nearctic,Admiral's Voyage,Bold Reasoning,Lyphard,Hail to Reason,In Reality,Mr.Prospector,Clever Trick,eeef,YIrj
 ¶Ü²¶Ş°Ø°,Ú²½Ş±È²Ã¨³Ş,0,44,34,Ë¼±¹ÎŞÉ,Woodman,»³½±Ä×İÃ¨¯¸,Mr.Prospector,Seattle Slew,Mill Reef,Ã½ºÎŞ°²,Raise a Native,Buckpasser,Bold Reasoning,Lyphard,Never Bend,Ribot,Princely Gift,¿ÛÅ³ª°,feee,YIrj
-º²ÉËÅ·Ş¸*,Ì«ÙÃ¨É,0,42,36,Ã¨¯¶Èİ,Cozzene,Ğ½À°¼°ËŞ°,Caro,À°ºŞÜ²½,Ä³¼®³ÎŞ°²,É°»ŞİÃ°½Ä,Ì«ÙÃ¨É,Prince John,Round Table,ØÍŞÛ,Ã½ºÎŞ°²,ÄËßµ,Northern Dancer,On Your Mark,ekee,YIrj
-»°Ì¨İ»İÃŞ²*,É°»ŞİÀŞİ»°,0,40,38,ÀÊŞ½º·¬¯Ä,Storm Cat,Northern Dancer,Storm Bird,Sauce Boat,Nearctic,Halo,Northern Dancer,Secretariat,Key to the Mint,Barbizon,Nearco,Native Dancer,Hail to Reason,Buckpasser,ekee,YIrj
-Ì§İÄÑÏ²İÄŞ*,²İÃİÄ,0,38,40,³«°Æİ¸Ş,Known Fact,Majestic Light,In Reality,Roberto,Majestic Prince,Stevward,Intentionally,Tim Tam,Hail to Reason,Raise a Native,Raise a Native,Ribot,Nashua,Native Dancer,cefe,YIrj
+ÜİÀŞ°½Îß¯Ä,Ì«ÙÃ¨É,0,42,36,Ã¨¯¶Èİ,Cozzene,Ğ½À°¼°ËŞ°,Caro,À°ºŞÜ²½,Ä³¼®³ÎŞ°²,É°»ŞİÃ°½Ä,Ì«ÙÃ¨É,Prince John,Round Table,ØÍŞÛ,Ã½ºÎŞ°²,ÄËßµ,Northern Dancer,On Your Mark,ekee,YIrj
+¸Ú°ËŞ¼Ş®İ,É°»ŞİÀŞİ»°,0,40,38,ÀÊŞ½º·¬¯Ä,Storm Cat,Northern Dancer,Storm Bird,Sauce Boat,Nearctic,Halo,Northern Dancer,Secretariat,Key to the Mint,Barbizon,Nearco,Native Dancer,Hail to Reason,Buckpasser,ekee,YIrj
+×İ×İÄŞØ°Ñ,²İÃİÄ,0,38,40,³«°Æİ¸Ş,Known Fact,Majestic Light,In Reality,Roberto,Majestic Prince,Stevward,Intentionally,Tim Tam,Hail to Reason,Raise a Native,Raise a Native,Ribot,Nashua,Native Dancer,cefe,YIrj
 ·°ÊßİÁ¬°,²İÃİÄ,0,36,42,Tiznow,Cee's Tizzy,Salt Lake,Relaunch,Seattle Song,Deputy Minister,¼Ş¬¯¼Ş¬°,In Reality,Lyphard,Seattle Slew,Å²½ÀŞİ»°,Vice Regent,Queen City Lad,Damascus,Hail to Reason,ceej,YIrj
 ÏİØ°½²°Ìß,Ú²½Ş±È²Ã¨³Ş,0,34,44,´İÄŞ½³¨°Ìß,Ì«°Ã¨Å²Å°,Mtoto,Mr.Prospector,Dance Spell,Busted,Great Nephew,Raise a Native,Tom Rolfe,Northern Dancer,Thinking Cap,Crepello,Ğİ¼µ,Honeyway,Graustark,feig,YIrj
-»İ¾¯ÄÏ²Ô*,É°»ŞİÀŞİ»°,0,32,46,ËßÙ»ÄŞ½·°,Polish Precedent,Ä³¼®³Íß¶Ş»½,Danzig,Troy,ÀŞİÃŞ¨Ù°Ä,ÏÙ¾Şİ½·°,Northern Dancer,Buckpasser,Petingo,Mill Reef,Luthier,³ŞªİÁ±,Nijinsky,²İÌ§Á­´²¼®İ,egme,YIrj
-Û±ºİÁªÙİ*,É°»ŞİÀŞİ»°,0,46,30,Belong to Me,Danzig,Silver Hawk,Northern Dancer,Exclusive Native,Roberto,Arts and Letters,Nearctic,Admiral's Voyage,Raise a Native,Hail to Reason,Hail to Reason,Amerigo,Ribot,Cavan,efek,YIrj
-Ê²×³Ş§Ë¯Ä*,Ú²½Ş±È²Ã¨³Ş,0,44,32,¼Şª²ÄŞÛÊŞØ°,Mr.Prospector,ĞÙ¼Ş®°¼Ş,Raise a Native,Nijinsky,Mill Reef,³ŞªİÁ±,Native Dancer,Nashua,Northern Dancer,Forli,Never Bend,Ragusa,Relic,¼İ»Şİ,feec,YIrj
-±¸±¼¬İÃ¨°*,Í²ÙÄ©Ø°½Şİ,0,42,34,Arch,Kris S.,Unbridled,Roberto,Danzig,Fappiano,Nijinsky,Hail to Reason,Princequillo,Northern Dancer,Alydar,Mr.Prospector,Le Fabuleux,Northern Dancer,Charlottesville,eefe,YIrj
-Û²ÔÙËŞ¯Ã*,Ú²½Ş±È²Ã¨³Ş,0,40,36,ÌŞ×¯¸À²±Ìª±°,Miswaki,Law Society,Mr.Prospector,Al Hattab,Alleged,Storm Bird,Raise a Native,Buckpasser,The Axe,Bold Commander,Hoist the Flag,Boldnesian,Northern Dancer,Round Table,fike,YIrj
-¿ÙÃ¨¼¬¯¸*,ÃÃŞ¨,0,36,40,¿³ÙµÌŞ»ŞÏÀ°,Private Terms,²ÌŞİÍŞ²,Private Account,T.V. Commercial,Mill Reef,Ó¶ŞĞ,Damascus,Bold Ruler,T.V. Lark,Tell,Never Bend,High Top,Lyphard,Êß°¿Ûİ,jeee,YIrj
-¾İÀ°×ÌŞØ°*,»°¹Ş²Û°ÄŞ,0,35,41,·¬ÛÙÊ³½,Lord Gayle,É°»ŞİÃ°½Ä,Sir Gaylord,¼ÙÊŞ°¼¬°¸,Northern Dancer,Native Charger,Turn-to,Court Martial,Buisson Ardent,³Ş¨Ğ°,Nearctic,Victoria Park,Native Dancer,Damascus,ecef,YIrj
+²ÀØ±İÊß¾Ø,É°»ŞİÀŞİ»°,0,32,46,ËßÙ»ÄŞ½·°,Polish Precedent,Ä³¼®³Íß¶Ş»½,Danzig,Troy,ÀŞİÃŞ¨Ù°Ä,ÏÙ¾Şİ½·°,Northern Dancer,Buckpasser,Petingo,Mill Reef,Luthier,³ŞªİÁ±,Nijinsky,²İÌ§Á­´²¼®İ,egme,YIrj
+Ëß±Â°Ëß±,É°»ŞİÀŞİ»°,0,46,30,Belong to Me,Danzig,Silver Hawk,Northern Dancer,Exclusive Native,Roberto,Arts and Letters,Nearctic,Admiral's Voyage,Raise a Native,Hail to Reason,Hail to Reason,Amerigo,Ribot,Cavan,efek,YIrj
+ÊÙ»·ºÍŞÆ,Ú²½Ş±È²Ã¨³Ş,0,44,32,¼Şª²ÄŞÛÊŞØ°,Mr.Prospector,ĞÙ¼Ş®°¼Ş,Raise a Native,Nijinsky,Mill Reef,³ŞªİÁ±,Native Dancer,Nashua,Northern Dancer,Forli,Never Bend,Ragusa,Relic,¼İ»Şİ,feec,YIrj
+Ì§İÃŞ°¼®İ,Í²ÙÄ©Ø°½Şİ,0,42,34,Arch,Kris S.,Unbridled,Roberto,Danzig,Fappiano,Nijinsky,Hail to Reason,Princequillo,Northern Dancer,Alydar,Mr.Prospector,Le Fabuleux,Northern Dancer,Charlottesville,eefe,YIrj
+´°¼Ş¬Ï²¶,Ú²½Ş±È²Ã¨³Ş,0,40,36,ÌŞ×¯¸À²±Ìª±°,Miswaki,Law Society,Mr.Prospector,Al Hattab,Alleged,Storm Bird,Raise a Native,Buckpasser,The Axe,Bold Commander,Hoist the Flag,Boldnesian,Northern Dancer,Round Table,fike,YIrj
+Êß¯Ëßİ½,ÃÃŞ¨,0,36,40,¿³ÙµÌŞ»ŞÏÀ°,Private Terms,²ÌŞİÍŞ²,Private Account,T.V. Commercial,Mill Reef,Ó¶ŞĞ,Damascus,Bold Ruler,T.V. Lark,Tell,Never Bend,High Top,Lyphard,Êß°¿Ûİ,jeee,YIrj
+Ñ½Ò¸ŞĞ,»°¹Ş²Û°ÄŞ,0,35,41,·¬ÛÙÊ³½,Lord Gayle,É°»ŞİÃ°½Ä,Sir Gaylord,¼ÙÊŞ°¼¬°¸,Northern Dancer,Native Charger,Turn-to,Court Martial,Buisson Ardent,³Ş¨Ğ°,Nearctic,Victoria Park,Native Dancer,Damascus,ecef,YIrj
 Ì¼·ŞÁ¬İ,ÃÃŞ¨,0,34,42,µ¼Ş¼Ş±İ,Damascus,Roberto,Sword Dancer,Francis S.,Hail to Reason,Pronto,Sunglow,My Babu,Royal Charger,Correlation,Turn-to,Nashua,Timor,Princequillo,jeem,YIrj
-ÄŞ°À°×²Ä*,ÄÑÌ°Ù,0,32,44,¼ÙÊŞ°Á¬°Ñ,Silver Buck,Ï²Æİ¸Ş,Buckpasser,Poker,Mr.Prospector,Clever Trick,Tom Fool,Hail to Reason,Round Table,Wise Margin,Raise a Native,Buckpasser,Icecapade,Pia Star,hkfe,YIrj
+¼ÙÊŞ°»İ,ÄÑÌ°Ù,0,32,44,¼ÙÊŞ°Á¬°Ñ,Silver Buck,Ï²Æİ¸Ş,Buckpasser,Poker,Mr.Prospector,Clever Trick,Tom Fool,Hail to Reason,Round Table,Wise Margin,Raise a Native,Buckpasser,Icecapade,Pia Star,hkfe,YIrj
 Øİ½ŞÁØÒİ,É°»ŞİÀŞİ»°,0,44,30,¼¬°ÃŞ¨°,Danzig,¶Â×·Ş´°½,Northern Dancer,Hoist the Flag,ÎŞ²½Ş¨°ÎŞ°²,²´×Êß,Nearctic,Admiral's Voyage,Tom Rolfe,Johns Joy,King's Troop,³ŞªİÁ±,Mossborough,¹Ş²À²Ñ,eked,YIrj
-»İÊŞ¶Ìª*,Ú²½Ş±È²Ã¨³Ş,0,42,32,Êİ¾Ù,Woodman,Ü²½Ş¶³İ¾×°,Mr.Prospector,Dancing Count,Alleged,ÃŞ¨¸À½,Raise a Native,Buckpasser,Northern Dancer,Victoria Park,Hoist the Flag,Raise a Native,Sanctus,¼İ»Şİ,fekb,YIrj
+ÏØİ¼Ş¬²ÌŞ,Ú²½Ş±È²Ã¨³Ş,0,42,32,Êİ¾Ù,Woodman,Ü²½Ş¶³İ¾×°,Mr.Prospector,Dancing Count,Alleged,ÃŞ¨¸À½,Raise a Native,Buckpasser,Northern Dancer,Victoria Park,Hoist the Flag,Raise a Native,Sanctus,¼İ»Şİ,fekb,YIrj
 ¼¬İÊ²¸×ÌŞ,Ú²½Ş±È²Ã¨³Ş,0,40,34,Ë¼±ØÀŞ°,Alydar,¼¬İÊ²,Raise a Native,ÉÉ±Ùº,Procida,ÏÙ¾Şİ½·°,Native Dancer,On-And-On,Nearctic,ÎßØ¯¸,Mr.Prospector,Riverman,Nijinsky,×Ì¨İºŞ×,fefe,YIrj
-×²ÄÌŞÛ¯»Ñ*,Ìª±Ä×²±Ù,0,38,36,Lord at War,General,¼¬°×½ÀÆ,Brigadier Gerard,Con Brio,Nijinsky,Riverman,Queen's Hussar,Pan,Ribot,Atlas,Northern Dancer,Thatch,Never Bend,Ê²Ê¯Ä,gkee,YIrj
+ËŞÀ°Àİ¼ŞªØİ,Ìª±Ä×²±Ù,0,38,36,Lord at War,General,¼¬°×½ÀÆ,Brigadier Gerard,Con Brio,Nijinsky,Riverman,Queen's Hussar,Pan,Ribot,Atlas,Northern Dancer,Thatch,Never Bend,Ê²Ê¯Ä,gkee,YIrj
 ²¯Á¬İ²²º,Í²ÙÄ©Ø°½Şİ,0,36,38,Red Ransom,Roberto,Danzig,Hail to Reason,Damascus,Northern Dancer,Sette Bello,Turn-to,Nashua,Sword Dancer,Nearctic,Nearctic,Admiral's Voyage,Ribot,Tim Tam,ejek,YIrj
-Ì¨ÙÑ¶¯¼°*,É°»ŞİÀŞİ»°,0,35,39,ÌßÙ×Ø½ŞÑ,The Minstrel,¶³±²·İ¸Ş,Northern Dancer,Roberto,Native Dancer,È³Ş§°ËŞ°Ä,Nearctic,Victoria Park,Hail to Reason,Sicambre,Polynesian,Blenheim,Never Say Die,ØİÎŞ°,eefe,YIrj
-Ì§İÀ¼Ş±×¯Ã*,Í²ÙÄ©Ø°½Şİ,0,34,40,Saint Ballado,Halo,Icecapade,Hail to Reason,Herbager,Nearctic,Circle Home,Turn-to,Cosmic Bomb,Vandale,Cohoes,Nearco,Native Dancer,Bold Bidder,Prince John,ebee,YIrj
+Öº½¶Ö°º,É°»ŞİÀŞİ»°,0,35,39,ÌßÙ×Ø½ŞÑ,The Minstrel,¶³±²·İ¸Ş,Northern Dancer,Roberto,Native Dancer,È³Ş§°ËŞ°Ä,Nearctic,Victoria Park,Hail to Reason,Sicambre,Polynesian,Blenheim,Never Say Die,ØİÎŞ°,eefe,YIrj
+±½ÄÛÅÅ,Í²ÙÄ©Ø°½Şİ,0,34,40,Saint Ballado,Halo,Icecapade,Hail to Reason,Herbager,Nearctic,Circle Home,Turn-to,Cosmic Bomb,Vandale,Cohoes,Nearco,Native Dancer,Bold Bidder,Prince John,ebee,YIrj
 ²İÀ°ÌßØÀ°,É°»ŞİÀŞİ»°,0,32,42,Ò¼ŞÛ×²±İ,±İÊŞ°¼¬ÀŞ²,Riverman,É°»ŞİÃ°½Ä,Ò¼ŞÛ»İÏİ,Never Bend,Time Tested,Northern Dancer,Ambiopoise,Charlottesville,½É¯ÌŞ,Nasrullah,Prince John,Better Self,±ÜÊŞÌŞ°,ekel,YIrj
-Ã¨±ÙĞÅ*,ÄÑÌ°Ù,0,44,28,Montbrook,Buckaroo,Lomond,Buckpasser,Jet Diplomacy,Northern Dancer,Etonian,Tom Fool,No Robbery,²¸½ÌßÛ³ÃŞİÄ,Diplomat Way,Nearctic,Poker,Owen Tudor,Arctic Prince,heeb,YIrj
-¾ØÉÊÅ*,ÎŞ°ÙÄŞÙ°×°,0,42,30,Old Trieste,A.P. Indy,»İ¼¬²İÌ«°´³Ş§°,Seattle Slew,Vigors,Roberto,Northern Dancer,Bold Reasoning,Secretariat,Grey Dawn,Crozier,Hail to Reason,Graustark,Nearctic,Barbizon,dbee,YIrj
+±°İÄŞÒÃŞ¨±,ÄÑÌ°Ù,0,44,28,Montbrook,Buckaroo,Lomond,Buckpasser,Jet Diplomacy,Northern Dancer,Etonian,Tom Fool,No Robbery,²¸½ÌßÛ³ÃŞİÄ,Diplomat Way,Nearctic,Poker,Owen Tudor,Arctic Prince,heeb,YIrj
+±¯Á¯Á±°Á,ÎŞ°ÙÄŞÙ°×°,0,42,30,Old Trieste,A.P. Indy,»İ¼¬²İÌ«°´³Ş§°,Seattle Slew,Vigors,Roberto,Northern Dancer,Bold Reasoning,Secretariat,Grey Dawn,Crozier,Hail to Reason,Graustark,Nearctic,Barbizon,dbee,YIrj
 ·­°Ã¨°ÊŞÆ°,ÎŞ°ÙÄŞÙ°×°,0,40,32,À²·ÌŞØ»Ş°ÄŞ,Seattle Slew,ÄŞ¸À°ÃŞ³Ş¨±½,Bold Reasoning,Sassafras,Ahonoora,Be My Guest,Boldnesian,Poker,Sheshoon,Hail to Reason,Lorenzaccio,Alleged,Northern Dancer,Busted,ecme,YIrj
-±ËŞ½ÏÙ×³Ş§°*,É°»ŞİÀŞİ»°,0,38,34,×ÑÀ×,Nijinsky,Ï¸ŞÆÃ­°ÄŞ,Northern Dancer,Blushing Groom,Mill Reef,ºİÄ×²Ä,Nearctic,Bull Page,Red God,Snow Knight,Never Bend,¾İÄ¸Ú½Ëßİ,Never Say Die,¶ÊŞ°×¯Ìß“ñ¢,eeee,YIrj
-¼İ¸Û¼½À°*,Å½Ù°×,0,34,38,Star de Naskra,Naskra,Apalachee,Nasram,Clandestine,Round Table,Marshua's Dancer,Nasrullah,Le Haar,Double Jay,Tudor Minstrel,Princequillo,Nantallah,Raise a Native,Ole Bob Bowers,elkf,YIrj
+¼­İ¶¼­³Ä³,É°»ŞİÀŞİ»°,0,38,34,×ÑÀ×,Nijinsky,Ï¸ŞÆÃ­°ÄŞ,Northern Dancer,Blushing Groom,Mill Reef,ºİÄ×²Ä,Nearctic,Bull Page,Red God,Snow Knight,Never Bend,¾İÄ¸Ú½Ëßİ,Never Say Die,¶ÊŞ°×¯Ìß“ñ¢,eeee,YIrj
+Ê°ÓÅ²,Å½Ù°×,0,34,38,Star de Naskra,Naskra,Apalachee,Nasram,Clandestine,Round Table,Marshua's Dancer,Nasrullah,Le Haar,Double Jay,Tudor Minstrel,Princequillo,Nantallah,Raise a Native,Ole Bob Bowers,elkf,YIrj
 ÒÛÄŞ×Ï,Ì«ÙÃ¨É,0,32,40,ºŞ°ÙÃŞİÌª»ŞİÄ,Caro,±Û°´¸½ÌßÚ½,Ì«ÙÃ¨É,Round Table,½ÊßÆ¯¼­²¸½ÌßÚ½,Ñ°Ã¨´,Grey Sovereign,Chamossaire,Princequillo,T.V. Lark,Sovereign Path,Airborne,Sicambre,Ä»ĞÄŞØ,ekek,YIrj
 Ï¼­ÏÛ·¯½,Ï²ÊŞÌŞ°,0,30,42,¼İÎŞØÙÄŞÙÌ,Êß°¿Ûİ,Fabulous Dancer,Milesian,½Ëß°ÄŞ¼İÎŞØ,Northern Dancer,Abdos,My Babu,Pharis,Û²ÔÙÁ¬ÚİÁŞ¬°,Palestine,Nearctic,The Axe,Arbar,Ticino,meem,YIrj
 ¼Ş¯À°ÊŞ¯¸Ş,ÃÃŞ¨,0,40,30,µ¼Ş¼Ş±İ,Damascus,ÏÙ¾Şİ½·°,Sword Dancer,Francis S.,Nijinsky,ÎŞ°ÙÄŞØ¯¸,Sunglow,My Babu,Royal Charger,Correlation,Northern Dancer,Buckpasser,Round Table,Whistler,jeek,YIrj
-³Ş§²µÊ°Ä*,ØÎŞ°,0,38,32,ÊŞİÌŞ°ËŞ·Şİ,ÊŞİÌŞ°±Ä×½,Seattle Slew,¼ŞÑÌÚİÁ,É°»ŞİÃ°½Ä,Bold Reasoning,Alydar,Graustark,Ã½ºÎŞ°²,Northern Dancer,ÀŞ²Ê°ÄŞ,Boldnesian,Poker,Raise a Native,Crafty Admiral,keef,YIrj
+ÁÔÎÔ,ØÎŞ°,0,38,32,ÊŞİÌŞ°ËŞ·Şİ,ÊŞİÌŞ°±Ä×½,Seattle Slew,¼ŞÑÌÚİÁ,É°»ŞİÃ°½Ä,Bold Reasoning,Alydar,Graustark,Ã½ºÎŞ°²,Northern Dancer,ÀŞ²Ê°ÄŞ,Boldnesian,Poker,Raise a Native,Crafty Admiral,keef,YIrj
 ¶ŞÚ°¼Ş¾°Ù,ÃÃŞ¨,0,36,34,´²¼İÜ¼İÄİ,µ¼Ş¼Ş±İ,»İÃŞ°»²Úİ½,Damascus,Sham,Halo,Conquistador Cielo,Sword Dancer,Francis S.,Pretense,Prince John,Hail to Reason,Understanding,Mr.Prospector,Nashua,jdef,YIrj
 Ú°½Êß×¿Ù,Ï²ÊŞÌŞ°,0,34,36,Ä³¶²Ã²µ°,¼İÎŞØÙÄŞÙÌ,Ã¨İÊŞ°¶İÄØ°,Êß°¿Ûİ,Å²½ÀŞİ»°,Woodman,É°»ŞİÃ°½Ä,Milesian,½Ëß°ÄŞ¼İÎŞØ,Northern Dancer,Ì§ÊŞ°¼Ş,Mr.Prospector,Pretense,Northern Dancer,Ë¯Ã¨İ¸Ş±³ª°,mefe,YIrj
-ÙÅ±Ø½*,È³Ş§°ÍŞİÄŞ,0,33,37,ĞÎÉÌŞÙÎŞİ,Ï¸ŞÆÃ­°ÄŞ,ĞÎ¼İ»Şİ,Mill Reef,¼¬Ú°,¼İ»Şİ,¸Ş¯ÄŞØ°,Never Bend,¾İÄ¸Ú½Ëßİ,Luthier,Õ±Ê²È½,ËİÄŞ½Àİ,Ñ°Ã¨´,½É¯ÌŞ,Grey Sovereign,emki,YIrj
+Ğ½ÊÅº,È³Ş§°ÍŞİÄŞ,0,33,37,ĞÎÉÌŞÙÎŞİ,Ï¸ŞÆÃ­°ÄŞ,ĞÎ¼İ»Şİ,Mill Reef,¼¬Ú°,¼İ»Şİ,¸Ş¯ÄŞØ°,Never Bend,¾İÄ¸Ú½Ëßİ,Luthier,Õ±Ê²È½,ËİÄŞ½Àİ,Ñ°Ã¨´,½É¯ÌŞ,Grey Sovereign,emki,YIrj
 ¼Ş¬İ¸¶Ş¼Şª¯Ä,µ°´İÃ­°ÀŞ°,0,32,38,Cadeaux Genereux,Young Generation,Kaldoun,Balidar,Sharpen Up,Caro,Nureyev,Will Somers,Shantung,´Àİ,Soderini,Ì«ÙÃ¨É,Le Haar,Northern Dancer,Secretariat,bfee,YIrj
-ĞÙ¸ÌŞÚ¯ÄŞ*,Ú²½Ş±È²Ã¨³Ş,0,30,40,Ğ¼´Û,Conquistador Cielo,É°»ŞİÃ°½Ä,Mr.Prospector,Thatch,Northern Dancer,Touching Wood,Raise a Native,Bold Commander,Forli,Nodouble,Nearctic,Victoria Park,Roberto,Crepello,fbee,YIrj
-Ê²³´½Ä*,Ú¯ÄŞºŞ¯ÄŞ,0,38,30,¸ÛºÙ°¼Ş­,Rainbow Quest,Miswaki,Blushing Groom,Alleged,Mr.Prospector,Dixieland Band,Red God,Herbager,Hoist the Flag,Round Table,Raise a Native,Buckpasser,Northern Dancer,In Reality,ekfe,YIrj
-Ñ¼É¼×¾*,ËÑÔ°,0,36,32,Great Above,Minnesota Mac,Proud Birdie,Rough'n Tumble,Intentionally,Proud Clarion,Big Burn,Free For All,Mustang,Intent,Better Self,Hail to Reason,Bolero,Never Bend,Better Bee,lcee,YIrj
-ÎÜ²Ä½É°*,È²Ã¨³ŞÀŞİ»°,0,33,35,µ¸ŞØ·¬¯Ìß,ÀŞİ¼İ¸Ş·¬¯Ìß,ÒİÃŞ½,Native Dancer,¼ÙÊŞ°¼¬°¸,ÍŞØÌ§,Æ¿Şİ,Polynesian,Grey Sovereign,Buisson Ardent,È³Ş§°ËŞ°Ä,Lyphard,Caro,Nijinsky,ÀŞİÃŞ¨Ù°Ä,fcee,YIrj
-¾Ú½±°½*,¸×Øµİ,0,32,36,±Ù¶İ¸Ş,Sagace,Lyphard,Luthier,Irish River,Northern Dancer,Riverman,Klairon,Chaparral,Riverman,Wild Risk,Nearctic,Court Martial,Never Bend,Hail to Reason,meee,YIrj
-½½ŞÉÈÁØØ*,Í²ÙÄ©Ø°½Şİ,0,31,37,ÑÀÌ§°³´¸,Silver Hawk,¼Şª²ÄŞÛÊŞØ°,Roberto,Caerleon,Mr.Prospector,ÏÙ¾Şİ½·°,Hail to Reason,Amerigo,Nijinsky,ºŞ°Ï°Áİ¸Ş,Raise a Native,Nijinsky,Nijinsky,¿ÛÅ³ª°,eefe,YIrj
-¼İÌ«Æ±´Ø°*,Û²ÔÙÁ¬°¼Ş¬°,0,30,38,Cox's Ridge,Best Turn,Mr.Prospector,Turn-to,Ballydonnell,Raise a Native,Tom Rolfe,Royal Charger,Swaps,Ballyogan,Carrier Pigeon,Native Dancer,Nashua,Ribot,Double Jay,egfk,YIrj
-¹±Îß°Ä*,ÌßØİ½ËŞµ,0,28,40,Siphon,Itajara,Carson City,Felicio,Kublai Khan,Mr.Prospector,Secretariat,Shantung,Falkland,Sideral,Svengali,Raise a Native,Blushing Groom,Bold Ruler,Icecapade,kgfe,YIrj
+¼°¼°¶Ş°Ù,Ú²½Ş±È²Ã¨³Ş,0,30,40,Ğ¼´Û,Conquistador Cielo,É°»ŞİÃ°½Ä,Mr.Prospector,Thatch,Northern Dancer,Touching Wood,Raise a Native,Bold Commander,Forli,Nodouble,Nearctic,Victoria Park,Roberto,Crepello,fbee,YIrj
+¾¸¼°ËŞ°Ñ,Ú¯ÄŞºŞ¯ÄŞ,0,38,30,¸ÛºÙ°¼Ş­,Rainbow Quest,Miswaki,Blushing Groom,Alleged,Mr.Prospector,Dixieland Band,Red God,Herbager,Hoist the Flag,Round Table,Raise a Native,Buckpasser,Northern Dancer,In Reality,ekfe,YIrj
+¶¼½³°Ûİ,ËÑÔ°,0,36,32,Great Above,Minnesota Mac,Proud Birdie,Rough'n Tumble,Intentionally,Proud Clarion,Big Burn,Free For All,Mustang,Intent,Better Self,Hail to Reason,Bolero,Never Bend,Better Bee,lcee,YIrj
+µ¸ŞØÅØİ,È²Ã¨³ŞÀŞİ»°,0,33,35,µ¸ŞØ·¬¯Ìß,ÀŞİ¼İ¸Ş·¬¯Ìß,ÒİÃŞ½,Native Dancer,¼ÙÊŞ°¼¬°¸,ÍŞØÌ§,Æ¿Şİ,Polynesian,Grey Sovereign,Buisson Ardent,È³Ş§°ËŞ°Ä,Lyphard,Caro,Nijinsky,ÀŞİÃŞ¨Ù°Ä,fcee,YIrj
+ÌßØ°Â½¶°Ä,¸×Øµİ,0,32,36,±Ù¶İ¸Ş,Sagace,Lyphard,Luthier,Irish River,Northern Dancer,Riverman,Klairon,Chaparral,Riverman,Wild Risk,Nearctic,Court Martial,Never Bend,Hail to Reason,meee,YIrj
+ÏÏÁ¬Ø,Í²ÙÄ©Ø°½Şİ,0,31,37,ÑÀÌ§°³´¸,Silver Hawk,¼Şª²ÄŞÛÊŞØ°,Roberto,Caerleon,Mr.Prospector,ÏÙ¾Şİ½·°,Hail to Reason,Amerigo,Nijinsky,ºŞ°Ï°Áİ¸Ş,Raise a Native,Nijinsky,Nijinsky,¿ÛÅ³ª°,eefe,YIrj
+ÌßØ¸¯¸,Û²ÔÙÁ¬°¼Ş¬°,0,30,38,Cox's Ridge,Best Turn,Mr.Prospector,Turn-to,Ballydonnell,Raise a Native,Tom Rolfe,Royal Charger,Swaps,Ballyogan,Carrier Pigeon,Native Dancer,Nashua,Ribot,Double Jay,egfk,YIrj
+ÄŞ×²±İÄŞ¸°Ù,ÌßØİ½ËŞµ,0,28,40,Siphon,Itajara,Carson City,Felicio,Kublai Khan,Mr.Prospector,Secretariat,Shantung,Falkland,Sideral,Svengali,Raise a Native,Blushing Groom,Bold Ruler,Icecapade,kgfe,YIrj
 Ï²ÙÄŞÍÌŞİ,¸×Øµİ,0,38,28,ÀŞ²À¸ÍØµ½,ËŞ¾ŞİÆ¼·,Å²½ÀŞİ»°,ÀŞİÃŞ¨Ù°Ä,È³Ş§°ËŞ°Ä,Northern Dancer,³ŞªİÁ±,Luthier,Ğİ½·°,Never Say Die,ÊÛ³ª°,Nearctic,Le Beau Prince,Relic,Your Host,meec,YIrj
-¶ÉİÒÛÃŞ¨*,É°»ŞİÀŞİ»°,0,36,30,Ò²¼®³ÄŞÄ³,Bigstone,ØİÄŞ¼ª°ÊŞ°,×½ÄÀ²¸°İ,Affirmed,Alydar,ÄÆ°ËŞİ,Ä×²Ï²ÍŞ½Ä,ÎßÂ¾,Exclusive Native,Nijinsky,Raise a Native,Cool Moon,¶İÊß×,É°»ŞİÃ°½Ä,effe,YIrj
+µÄÒÉÜÙÂ,É°»ŞİÀŞİ»°,0,36,30,Ò²¼®³ÄŞÄ³,Bigstone,ØİÄŞ¼ª°ÊŞ°,×½ÄÀ²¸°İ,Affirmed,Alydar,ÄÆ°ËŞİ,Ä×²Ï²ÍŞ½Ä,ÎßÂ¾,Exclusive Native,Nijinsky,Raise a Native,Cool Moon,¶İÊß×,É°»ŞİÃ°½Ä,effe,YIrj
 ¸²¯¸Øİ¸,ÀŞİÃ,0,34,32,ÄÛ¯Ä»İÀŞ°,ÀŞ²Åº½Ó½,Fabulous Dancer,ÊİÀ°ºÑ,Ã½ºÎŞ°²,Northern Dancer,Blushing Groom,Derring-Do,É°»ŞİÃ°½Ä,Princely Gift,ØİÎŞ°,Nearctic,The Axe,Red God,Bupers,deee,YIrj
-Ó°À°ÌŞÚ²¶°*,Ê²ÍßØµİ,0,32,34,»¸×ÁÄ¾µ°,ÄÆ°ËŞİ,½Ù°»ŞÄŞ×ºŞİ,¶İÊß×,É°»ŞİÃ°½Ä,Seattle Slew,³ŞªİÁ±,Kalamoun,Hornbeam,Northern Dancer,Quadrangle,Bold Reasoning,Prince John,Relic,¿ÛÅ³ª°,befe,YIrj
-½Ï²ÙÄŞÛ¯Ìß*,¾ŞÀŞ°İ,0,30,36,»¸×ÁÄ¾µ°,ÄÆ°ËŞİ,½Ù°»ŞÄŞ×ºŞİ,¶İÊß×,É°»ŞİÃ°½Ä,Seattle Slew,³ŞªİÁ±,Kalamoun,Hornbeam,Northern Dancer,Quadrangle,Bold Reasoning,Prince John,Relic,¿ÛÅ³ª°,eeec,YIrj
-Å°½ÎÜ²Ä*,É°»ŞİÀŞİ»°,0,28,38,ÄŞØ°Ñ³ªÙ,Sadler's Wells,ÊßÄŞ½°Ù,Northern Dancer,Alleged,Mill Reef,É°»ŞİÃ°½Ä,Nearctic,Bold Reason,Hoist the Flag,Northfields,Never Bend,Star Moss,Northern Dancer,ÏØ°É,ekee,YIrj
-²´Û°½°Â*,Ú²½Ş±È²Ã¨³Ş,0,36,28,½·¬À°»ŞºŞ°ÙÄŞ,Mr.Prospector,Dayjur,Raise a Native,Danzig,Danzig,Filiberto,Native Dancer,Nashua,Northern Dancer,Smarten,Northern Dancer,Mr.Prospector,Ribot,Habitat,feek,YIrj
-±°¹°ÄŞ¸²°İ*,É°»ŞİÀŞİ»°,0,34,30,Ì»²Á¿Æ¯¸,ÃŞ²İËÙ,Plugged Nickle,Danzig,Beldale Flutter,Key to the Mint,Vaguely Noble,Northern Dancer,His Majesty,Accipiter,Djakao,Graustark,Buckpasser,³Ş¨´Å,Honeys Alibi,ejkb,YIrj
-³Ï¶Ş±³¶×*,ØÎŞ°,0,30,34,Unbridled,Fappiano,El Gran Senor,Mr.Prospector,Le Fabuleux,Northern Dancer,In Reality,Raise a Native,Dr. Fager,Wild Risk,In Reality,Nearctic,Buckpasser,Intentionally,Cornish Prince,keek,YIrj
+±½·°±°Ä,Ê²ÍßØµİ,0,32,34,»¸×ÁÄ¾µ°,ÄÆ°ËŞİ,½Ù°»ŞÄŞ×ºŞİ,¶İÊß×,É°»ŞİÃ°½Ä,Seattle Slew,³ŞªİÁ±,Kalamoun,Hornbeam,Northern Dancer,Quadrangle,Bold Reasoning,Prince John,Relic,¿ÛÅ³ª°,befe,YIrj
+ÚÓİĞÙ¸,¾ŞÀŞ°İ,0,30,36,»¸×ÁÄ¾µ°,ÄÆ°ËŞİ,½Ù°»ŞÄŞ×ºŞİ,¶İÊß×,É°»ŞİÃ°½Ä,Seattle Slew,³ŞªİÁ±,Kalamoun,Hornbeam,Northern Dancer,Quadrangle,Bold Reasoning,Prince John,Relic,¿ÛÅ³ª°,eeec,YIrj
+Ì§İ¼°¼®¯Ìß,É°»ŞİÀŞİ»°,0,28,38,ÄŞØ°Ñ³ªÙ,Sadler's Wells,ÊßÄŞ½°Ù,Northern Dancer,Alleged,Mill Reef,É°»ŞİÃ°½Ä,Nearctic,Bold Reason,Hoist the Flag,Northfields,Never Bend,Star Moss,Northern Dancer,ÏØ°É,ekee,YIrj
+¶ÏÁİ¶¯Ä,Ú²½Ş±È²Ã¨³Ş,0,36,28,½·¬À°»ŞºŞ°ÙÄŞ,Mr.Prospector,Dayjur,Raise a Native,Danzig,Danzig,Filiberto,Native Dancer,Nashua,Northern Dancer,Smarten,Northern Dancer,Mr.Prospector,Ribot,Habitat,feek,YIrj
+Ì§°½ÄÁ®²½,É°»ŞİÀŞİ»°,0,34,30,Ì»²Á¿Æ¯¸,ÃŞ²İËÙ,Plugged Nickle,Danzig,Beldale Flutter,Key to the Mint,Vaguely Noble,Northern Dancer,His Majesty,Accipiter,Djakao,Graustark,Buckpasser,³Ş¨´Å,Honeys Alibi,ejkb,YIrj
+Á°Ìß¼¯¸,ØÎŞ°,0,30,34,Unbridled,Fappiano,El Gran Senor,Mr.Prospector,Le Fabuleux,Northern Dancer,In Reality,Raise a Native,Dr. Fager,Wild Risk,In Reality,Nearctic,Buckpasser,Intentionally,Cornish Prince,keek,YIrj
